@@ -1557,3 +1557,71 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.02-17.29.41:583][272]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
 [2025.09.02-17.29.48:934][716]LogSlate: Window 'BP_PlayerPawn' being destroyed
 [2025.09.02-17.29.55:303][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.02-17.31.15:980][188]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.02-17.35.11:599][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1367.901489
+[2025.09.02-17.35.12:597][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.35.12:597][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1368.567261, Update Interval: 352.869659
+[2025.09.02-17.36.36:253][307]LogEditorTransaction: Undo Comment Changed
+[2025.09.02-17.38.16:726][921]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.39.26:572][ 14]LogShaderCompilers: Display: ================================================
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Total job queries 464, among them cache hits 36 (7.76%), DDC hits 348 (75.00%), Duplicates 72 (15.52%)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Tracking 356 distinct input hashes that result in 247 distinct outputs (69.38%)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: RAM used: 3.36 MiB of 1.60 GiB budget. Usage: 0.21%
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Average time worker was idle: 18.95 s
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.71 s
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Job life time (pending + execution): average 0.44 s, max 0.78
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Shader code size: total 65.094 KiB, numShaders 8, average 8.137 KiB, min 2.871 KiB, max 12.703 KiB
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.75 s
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Average processing rate: 4.58 jobs/sec
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Total thread time: 2.203 s
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Total thread preprocess time: 5.245 s
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Percentage time preprocessing: 238.04%
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Effective parallelization: 1.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.090142
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.26 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 30.59% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.31% of total time (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.26 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.45% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                                  FHitProxyPS - 8.96% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.62% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: === Material stats ===
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Materials Translated:    142
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Material Translation Only: 0.03 s (33%)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: Material Cache Hits: 32 (23%)
+[2025.09.02-17.39.26:573][ 14]LogShaderCompilers: Display: ================================================
+[2025.09.02-17.40.02:675][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.02-17.40.02:678][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.40.02:708][ 91]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([2] browsable assets)...
+[2025.09.02-17.40.02:708][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2025.09.02-17.40.02:711][ 91]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerPawn
+[2025.09.02-17.40.02:712][ 91]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerPawnEC707D0A42917C70CDBC7BA3C0D26418.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerPawn.uasset'
+[2025.09.02-17.40.02:716][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.460 ms (total: 304.176 ms)
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: Enabled validators:
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.40.02:748][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.40.02:748][ 91]AssetCheck: /Game/Blueprints/BP_PlayerPawn Validating asset
+[2025.09.02-17.41.16:836][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.02-17.41.19:363][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.02-17.41.28:593][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1744.889160
+[2025.09.02-17.41.29:589][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.41.29:589][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1745.553467, Update Interval: 351.899170
