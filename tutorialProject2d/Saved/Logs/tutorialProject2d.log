@@ -1334,3 +1334,137 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.02-17.20.42:847][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.02-17.20.42:847][613]AssetCheck: /Game/Textures/back Validating asset
 [2025.09.02-17.20.42:857][613]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 1 (upload completely sent off: 544 bytes)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 3 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 5 (shutting down connection #0)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 7 (Send failure: Connection was reset)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 9 (necessary data rewind was not possible)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50520EC2-48B1-535A-2216-74AB924AE908%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4024aa944c4317f6d28cd3aad8ffeffb%7Cc07c50ff0087474cb7908e420368a200%7Cad1c6110-26b9-4ce2-a252-d88fb9eba124&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 12 (necessary data rewind was not possible)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 13 (rewind of client reader 'cr-in' failed: 65)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 14 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 15 (IPv6: (none))
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 16 (IPv4: 54.157.120.8, 34.196.57.140, 18.211.84.139, 54.85.211.195, 34.196.156.249, 52.54.59.103, 54.235.28.214, 54.197.147.207)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 17 (  Trying 54.157.120.8:443...)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 18 (SSL reusing session)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 19 (ALPN: curl offers http/1.1)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 24 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 25 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 26 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 27 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.09.02-17.22.31:289][126]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 28 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 29 (ALPN: server accepted http/1.1)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 30 (Server certificate:)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 31 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 32 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 33 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 34 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 35 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 36 ( SSL certificate verify ok.)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 37 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 38 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 39 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 40 (Connected to datarouter.ol.epicgames.com (54.157.120.8) port 443)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 41 (using HTTP/1.x)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 42 (client read function EOF fail, only 0/544 of needed bytes read)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300: libcurl info message cache 43 (closing connection #1)
+[2025.09.02-17.22.31:289][127]LogHttp: Warning: 000001D53AC32300 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50520EC2-48B1-535A-2216-74AB924AE908%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4024aa944c4317f6d28cd3aad8ffeffb%7Cc07c50ff0087474cb7908e420368a200%7Cad1c6110-26b9-4ce2-a252-d88fb9eba124&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 6.82s
+[2025.09.02-17.22.51:452][626]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.22.51:455][626]LogInterchangeEngine: [Pending] Importing
+[2025.09.02-17.22.51:455][626]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fenix/Downloads/kenney_space-shooter-redux/PNG/playerShip1_blue.png]
+[2025.09.02-17.22.51:537][628]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.22.51:537][629]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.02-17.22.51:574][629]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.09.02-17.22.51:575][630]LogTexture: Display: Building textures: /Game/Textures/playerShip1_blue.playerShip1_blue (BGRA8, 99x75 x1x1x1) (Required Memory Estimate: 1.254917 MB), EncodeSpeed: Fast
+[2025.09.02-17.22.51:627][630]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fenix/Downl...ce-shooter-redux/PNG/playerShip1_blue.png]
+[2025.09.02-17.22.51:629][630]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.02-17.22.51:629][630]LogInterchangeEngine: [Success] Import Done
+[2025.09.02-17.23.04:855][887]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.23.04:864][887]LogInterchangeEngine: [Pending] Importing
+[2025.09.02-17.23.04:864][887]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fenix/Downloads/kenney_space-shooter-redux/PNG/Enemies/enemyRed1.png]
+[2025.09.02-17.23.04:937][889]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.23.04:937][890]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.02-17.23.04:968][891]LogTexture: Display: Building textures: /Game/Textures/enemyRed1.enemyRed1 (BGRA8, 93x84 x1x1x1) (Required Memory Estimate: 1.268204 MB), EncodeSpeed: Fast
+[2025.09.02-17.23.04:996][891]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fenix/Downl...er-redux/PNG/Enemies/enemyRed1.png]
+[2025.09.02-17.23.04:998][891]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.02-17.23.04:998][891]LogInterchangeEngine: [Success] Import Done
+[2025.09.02-17.23.30:989][171]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.23.30:995][171]LogInterchangeEngine: [Pending] Importing
+[2025.09.02-17.23.30:995][171]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fenix/Downloads/kenney_space-shooter-redux/PNG/Lasers/laserRed07.png]
+[2025.09.02-17.23.31:076][173]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.23.31:076][174]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.02-17.23.31:098][175]LogTexture: Display: Building textures: /Game/Textures/laserRed07.laserRed07 (BGRA8, 9x37 x1x1x1) (Required Memory Estimate: 1.011433 MB), EncodeSpeed: Fast
+[2025.09.02-17.23.31:126][175]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fenix/Downl...ter-redux/PNG/Lasers/laserRed07.png]
+[2025.09.02-17.23.31:128][175]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.02-17.23.31:128][175]LogInterchangeEngine: [Success] Import Done
+[2025.09.02-17.23.41:650][153]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 677.960815
+[2025.09.02-17.23.41:709][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.23.41:709][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.010742, Update Interval: 315.872070
+[2025.09.02-17.23.42:004][195]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.23.42:122][207]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.24.44:517][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.09.02-17.24.44:520][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.24.44:542][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/back_Sprite] ([1] browsable assets)...
+[2025.09.02-17.24.44:544][882]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Textures/back_Sprite.back_Sprite]
+[2025.09.02-17.24.44:544][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/back_Sprite]
+[2025.09.02-17.24.44:544][882]LogSavePackage: Moving output files for package: /Game/Textures/back_Sprite
+[2025.09.02-17.24.44:544][882]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/back_Sprite6A4E554349A81DF14D46DCBFF8BB2CDD.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/back_Sprite.uasset'
+[2025.09.02-17.24.44:545][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/playerShip1_blue] ([1] browsable assets)...
+[2025.09.02-17.24.44:545][882]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/playerShip1_blue.playerShip1_blue]
+[2025.09.02-17.24.44:545][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/playerShip1_blue]
+[2025.09.02-17.24.44:547][882]LogSavePackage: Moving output files for package: /Game/Textures/playerShip1_blue
+[2025.09.02-17.24.44:547][882]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/playerShip1_blue4FE629F24B58B3FD89AEF99C1AE2B895.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/playerShip1_blue.uasset'
+[2025.09.02-17.24.44:549][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/enemyRed1] ([1] browsable assets)...
+[2025.09.02-17.24.44:549][882]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/enemyRed1.enemyRed1]
+[2025.09.02-17.24.44:549][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/enemyRed1]
+[2025.09.02-17.24.44:549][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/enemyRed1" FILE="../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/enemyRed1.uasset" SILENT=true
+[2025.09.02-17.24.44:550][882]LogSavePackage: Moving output files for package: /Game/Textures/enemyRed1
+[2025.09.02-17.24.44:550][882]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/enemyRed1AB44E2B343BC632FD104F8A1C338C5A1.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/enemyRed1.uasset'
+[2025.09.02-17.24.44:552][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/laserRed07] ([1] browsable assets)...
+[2025.09.02-17.24.44:552][882]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/laserRed07.laserRed07]
+[2025.09.02-17.24.44:552][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/laserRed07]
+[2025.09.02-17.24.44:554][882]LogSavePackage: Moving output files for package: /Game/Textures/laserRed07
+[2025.09.02-17.24.44:554][882]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/laserRed0776DEB8F64F7DFDDA6AFFA99FC856DF0D.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/laserRed07.uasset'
+[2025.09.02-17.24.44:554][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/playerShip1_blue_Sprite] ([1] browsable assets)...
+[2025.09.02-17.24.44:555][882]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Textures/playerShip1_blue_Sprite.playerShip1_blue_Sprite]
+[2025.09.02-17.24.44:555][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/playerShip1_blue_Sprite]
+[2025.09.02-17.24.44:556][882]LogSavePackage: Moving output files for package: /Game/Textures/playerShip1_blue_Sprite
+[2025.09.02-17.24.44:556][882]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/playerShip1_blue_Sprite42E15AC043C1174EE409BD919B16EC75.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/playerShip1_blue_Sprite.uasset'
+[2025.09.02-17.24.44:556][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/laserRed07_Sprite] ([1] browsable assets)...
+[2025.09.02-17.24.44:558][882]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Textures/laserRed07_Sprite.laserRed07_Sprite]
+[2025.09.02-17.24.44:558][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/laserRed07_Sprite]
+[2025.09.02-17.24.44:559][882]LogSavePackage: Moving output files for package: /Game/Textures/laserRed07_Sprite
+[2025.09.02-17.24.44:559][882]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/laserRed07_Sprite3E79C0954974EE0CF2F8D3BFCFD77909.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/laserRed07_Sprite.uasset'
+[2025.09.02-17.24.44:560][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/enemyRed1_Sprite] ([1] browsable assets)...
+[2025.09.02-17.24.44:560][882]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Textures/enemyRed1_Sprite.enemyRed1_Sprite]
+[2025.09.02-17.24.44:560][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/enemyRed1_Sprite]
+[2025.09.02-17.24.44:562][882]LogSavePackage: Moving output files for package: /Game/Textures/enemyRed1_Sprite
+[2025.09.02-17.24.44:562][882]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/enemyRed1_Sprite2FD5E519481142B0D261A7BED078546C.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/enemyRed1_Sprite.uasset'
+[2025.09.02-17.24.44:568][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.416 ms (total: 123.643 ms)
+[2025.09.02-17.24.44:602][882]LogContentValidation: Display: Starting to validate 7 assets
+[2025.09.02-17.24.44:602][882]LogContentValidation: Enabled validators:
+[2025.09.02-17.24.44:602][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.24.44:602][882]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.24.44:602][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.24.44:602][882]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.24.44:602][882]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.24.44:602][882]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/back_Sprite Validating asset
+[2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/playerShip1_blue Validating asset
+[2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/enemyRed1 Validating asset
+[2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/laserRed07 Validating asset
+[2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/playerShip1_blue_Sprite Validating asset
+[2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/laserRed07_Sprite Validating asset
+[2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/enemyRed1_Sprite Validating asset
+[2025.09.02-17.24.44:613][882]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
