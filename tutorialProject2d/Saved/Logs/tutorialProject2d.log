@@ -1468,3 +1468,56 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/laserRed07_Sprite Validating asset
 [2025.09.02-17.24.44:602][882]AssetCheck: /Game/Textures/enemyRed1_Sprite Validating asset
 [2025.09.02-17.24.44:613][882]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.02-17.25.11:579][550]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Textures/back_Sprite.back_Sprite
+[2025.09.02-17.25.11:579][550]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Textures/back_Sprite.back_Sprite
+[2025.09.02-17.25.11:580][550]LogActorFactory: Actor Factory spawned PaperSprite /Game/Textures/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/MainMap.MainMap:PersistentLevel.PaperSpriteActor_0
+[2025.09.02-17.25.11:582][550]LogActorFactory: Actor Factory spawned PaperSprite /Game/Textures/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/MainMap.MainMap:PersistentLevel.PaperSpriteActor_0
+[2025.09.02-17.25.11:583][550]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.02-17.25.11:615][554]LogRenderer: Using fallback RTPSO
+[2025.09.02-17.25.12:845][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.02-17.25.12:845][699]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.09.02-17.25.12:850][699]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Textures/back_Sprite.back_Sprite
+[2025.09.02-17.25.12:850][699]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Textures/back_Sprite.back_Sprite
+[2025.09.02-17.25.12:851][699]LogActorFactory: Actor Factory spawned PaperSprite /Game/Textures/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/MainMap.MainMap:PersistentLevel.PaperSpriteActor_1
+[2025.09.02-17.25.12:851][699]LogActorFactory: Actor Factory spawned PaperSprite /Game/Textures/back_Sprite.back_Sprite as actor: PaperSpriteActor /Game/Maps/MainMap.MainMap:PersistentLevel.PaperSpriteActor_1
+[2025.09.02-17.26.02:836][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.02-17.26.02:839][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.26.02:893][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.09.02-17.26.02:895][309]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2025.09.02-17.26.02:895][309]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/MainMapF56A2C4C4EBFC80B1ED61C80F02DA23F.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Maps/MainMap.umap'
+[2025.09.02-17.26.02:899][309]LogFileHelpers: Saving map 'MainMap' took 0.028
+[2025.09.02-17.26.02:903][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.374 ms (total: 189.017 ms)
+[2025.09.02-17.26.02:942][309]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-17.26.02:942][309]LogContentValidation: Enabled validators:
+[2025.09.02-17.26.02:942][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.26.02:942][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.26.02:942][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.26.02:942][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.26.02:942][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.26.02:942][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.26.02:942][309]AssetCheck: /Game/Maps/MainMap Validating asset
+[2025.09.02-17.27.03:070][400]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.02-17.27.03:075][400]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.02-17.27.03:081][401]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.02-17.27.05:235][660]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.09.02-17.27.05:235][660]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.02-17.27.12:218][339]Cmd: TRANSACTION UNDO
+[2025.09.02-17.27.12:218][339]LogEditorTransaction: Undo Clicking Background
+[2025.09.02-17.27.13:655][467]Cmd: TRANSACTION REDO
+[2025.09.02-17.27.13:655][467]LogEditorTransaction: Redo Clicking Background
+[2025.09.02-17.27.18:922][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.27.18:975][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.09.02-17.27.18:980][ 94]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2025.09.02-17.27.18:980][ 94]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/MainMapA679648F46A2505D9D1BFBA28ADFA6E7.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Maps/MainMap.umap'
+[2025.09.02-17.27.18:984][ 94]LogFileHelpers: Saving map 'MainMap' took 0.034
+[2025.09.02-17.27.18:990][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.265 ms (total: 257.282 ms)
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: Enabled validators:
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.27.19:021][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.27.19:021][ 94]AssetCheck: /Game/Maps/MainMap Validating asset
+[2025.09.02-17.27.22:645][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
