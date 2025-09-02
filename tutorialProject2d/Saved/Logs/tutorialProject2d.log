@@ -1299,3 +1299,38 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.02-17.18.12:424][833]AssetCheck: /Game/Maps/MainMap Validating asset
 [2025.09.02-17.18.12:424][833]AssetCheck: /Game/MainMap Validating asset
 [2025.09.02-17.18.12:459][833]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.02-17.20.26:233][442]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.20.26:285][442]LogInterchangeEngine: [Pending] Importing
+[2025.09.02-17.20.26:285][442]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/fenix/Downloads/back.png]
+[2025.09.02-17.20.26:367][444]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.20.26:400][446]LogTexture: Display: Building textures: /Game/back.back (TFO_AutoDXT, 2048x1536 x1x1x1) (Required Memory Estimate: 316.250 MB), EncodeSpeed: Fast
+[2025.09.02-17.20.26:459][447]LogInterchangeEngine: Display: Interchange import completed [C:/Users/fenix/Downloads/back.png]
+[2025.09.02-17.20.26:463][447]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.02-17.20.26:463][447]LogInterchangeEngine: [Success] Import Done
+[2025.09.02-17.20.38:183][ 96]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.02-17.20.38:187][ 96]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.02-17.20.38:193][ 97]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.02-17.20.39:805][291]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2025.09.02-17.20.39:805][291]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.02-17.20.42:754][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.20.42:754][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/back] ([1] browsable assets)...
+[2025.09.02-17.20.42:756][613]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/back.back]
+[2025.09.02-17.20.42:756][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/back]
+[2025.09.02-17.20.42:756][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/back" FILE="../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/back.uasset" SILENT=true
+[2025.09.02-17.20.42:772][613]LogSavePackage: Moving output files for package: /Game/Textures/back
+[2025.09.02-17.20.42:772][613]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/back01D258E845C8A3A2DEA433A1CB4D5574.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/back.uasset'
+[2025.09.02-17.20.42:772][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.151 ms (total: 76.226 ms)
+[2025.09.02-17.20.42:807][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.02-17.20.42:819][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.02-17.20.42:831][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.09.02-17.20.42:847][613]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.02-17.20.42:847][613]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-17.20.42:847][613]LogContentValidation: Enabled validators:
+[2025.09.02-17.20.42:847][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.20.42:847][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.20.42:847][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.20.42:847][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.20.42:847][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.20.42:847][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.20.42:847][613]AssetCheck: /Game/Textures/back Validating asset
+[2025.09.02-17.20.42:857][613]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
