@@ -1260,3 +1260,42 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.02-17.14.00:236][811]LogSlate: Window 'Project Settings' being destroyed
 [2025.09.02-17.14.00:241][811]LogSlate: Window 'Project Settings' being destroyed
 [2025.09.02-17.14.21:373][172]LogDerivedDataCache: C:/Users/fenix/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.02-17.16.12:688][952]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.02-17.17.56:553][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 332.864594
+[2025.09.02-17.17.56:619][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.17.56:619][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.922852, Update Interval: 341.752991
+[2025.09.02-17.17.58:593][  8]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.02-17.17.58:612][  8]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.02-17.17.58:616][  9]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.02-17.18.00:480][233]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.09.02-17.18.00:480][233]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.02-17.18.12:328][833]LogSlate: Window 'Message' being destroyed
+[2025.09.02-17.18.12:333][833]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+MainMap
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.09.02-17.18.12:346][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.18.12:395][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.02-17.18.12:399][833]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2025.09.02-17.18.12:399][833]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/MainMapA7CABA9D41C60B9673EE3BB6F4E02D6C.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Maps/MainMap.umap'
+[2025.09.02-17.18.12:403][833]LogFileHelpers: Saving map 'MainMap' took 0.056
+[2025.09.02-17.18.12:403][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMap] ([1] browsable assets)...
+[2025.09.02-17.18.12:403][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMap]
+[2025.09.02-17.18.12:403][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/MainMap.umap" SILENT=true
+[2025.09.02-17.18.12:403][833]LogSavePackage: Moving output files for package: /Game/MainMap
+[2025.09.02-17.18.12:404][833]LogSavePackage: Moving '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/MainMapBACA55C241A565E41317DB98EEE4F9E0.tmp' to '../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/MainMap.umap'
+[2025.09.02-17.18.12:404][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.074 ms
+[2025.09.02-17.18.12:423][833]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.02-17.18.12:423][833]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.02-17.18.12:423][833]LogContentValidation: Enabled validators:
+[2025.09.02-17.18.12:423][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.18.12:423][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.18.12:423][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.18.12:423][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.18.12:423][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.18.12:423][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.18.12:424][833]AssetCheck: /Game/Maps/MainMap Validating asset
+[2025.09.02-17.18.12:424][833]AssetCheck: /Game/MainMap Validating asset
+[2025.09.02-17.18.12:459][833]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/fenix/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
