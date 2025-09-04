@@ -2294,3 +2294,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.04-20.43.43:156][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.04-20.43.43:156][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.04-20.43.43:156][945]AssetCheck: /Game/Blueprints/BP_Laser Validating asset
+[2025.09.04-20.44.46:065][415]LogSlate: Took 0.006972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.04-20.46.01:801][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.04-20.46.01:812][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-20.46.01:856][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Laser] ([2] browsable assets)...
+[2025.09.04-20.46.01:856][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Laser]
+[2025.09.04-20.46.01:868][467]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Laser
+[2025.09.04-20.46.01:869][467]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_Laser8965D26446E9D44E9DA911A3728628BB.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_Laser.uasset'
+[2025.09.04-20.46.01:879][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.834 ms (total: 1.39 sec)
+[2025.09.04-20.46.01:924][467]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-20.46.01:924][467]LogContentValidation: Enabled validators:
+[2025.09.04-20.46.01:924][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-20.46.01:924][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-20.46.01:924][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-20.46.01:924][467]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-20.46.01:924][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-20.46.01:924][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-20.46.01:924][467]AssetCheck: /Game/Blueprints/BP_Laser Validating asset
+[2025.09.04-20.46.22:143][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2385.724609
+[2025.09.04-20.46.22:218][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-20.46.22:218][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2385.791504, Update Interval: 326.237976
+[2025.09.04-20.49.54:491][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.04-20.49.54:503][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-20.49.54:557][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Laser] ([2] browsable assets)...
+[2025.09.04-20.49.54:557][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Laser]
+[2025.09.04-20.49.54:570][594]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Laser
+[2025.09.04-20.49.54:571][594]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_LaserBD23A1934A56AB29D929039545216B7A.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_Laser.uasset'
+[2025.09.04-20.49.54:583][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.534 ms (total: 1.47 sec)
+[2025.09.04-20.49.54:658][594]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-20.49.54:658][594]LogContentValidation: Enabled validators:
+[2025.09.04-20.49.54:658][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-20.49.54:658][594]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-20.49.54:658][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-20.49.54:658][594]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-20.49.54:658][594]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-20.49.54:658][594]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-20.49.54:659][594]AssetCheck: /Game/Blueprints/BP_Laser Validating asset
