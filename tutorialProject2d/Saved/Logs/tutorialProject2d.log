@@ -2704,3 +2704,181 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.04-20.58.27:211][287]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
 [2025.09.04-20.58.27:218][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
 [2025.09.04-20.58.27:302][288]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.09.04-20.58.53:826][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3137.431885
+[2025.09.04-20.58.53:902][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-20.58.53:902][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3137.498047, Update Interval: 345.411530
+[2025.09.04-21.00.35:716][746]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.09.04-21.00.35:721][746]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.09.04-21.00.35:741][747]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.09.04-21.00.39:870][243]LogContentBrowser: Attempting asset rename: NewInputAction -> Fire
+[2025.09.04-21.00.39:871][243]LogContentBrowser: End creating deferred item NewInputAction
+[2025.09.04-21.00.48:264][177]LogContentBrowser: Attempting asset rename: Fire -> FireLaser
+[2025.09.04-21.00.48:366][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.00.48:366][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FireLaser] ([1] browsable assets)...
+[2025.09.04-21.00.48:366][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FireLaser]
+[2025.09.04-21.00.48:375][177]LogSavePackage: Moving output files for package: /Game/Blueprints/FireLaser
+[2025.09.04-21.00.48:375][177]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/FireLaserB0A8BCD4418D7011799A71BBBD6E8D83.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/FireLaser.uasset'
+[2025.09.04-21.00.48:376][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.471 ms (total: 2.01 sec)
+[2025.09.04-21.00.48:423][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.04-21.00.48:458][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.04-21.00.48:485][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.04-21.00.48:556][177]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.00.48:557][177]LogContentValidation: Enabled validators:
+[2025.09.04-21.00.48:557][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.00.48:557][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.00.48:557][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.00.48:557][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.00.48:557][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.00.48:557][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.00.48:557][177]AssetCheck: /Game/Blueprints/FireLaser Validating asset
+[2025.09.04-21.00.48:603][177]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.04-21.00.51:118][421]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/FireLaser.FireLaser
+[2025.09.04-21.01.32:789][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.01.32:824][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FireLaser] ([1] browsable assets)...
+[2025.09.04-21.01.32:824][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FireLaser]
+[2025.09.04-21.01.32:837][302]LogSavePackage: Moving output files for package: /Game/Blueprints/FireLaser
+[2025.09.04-21.01.32:837][302]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/FireLaserA3136798470519FE24DB65B6C6AE35ED.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/FireLaser.uasset'
+[2025.09.04-21.01.32:849][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.981 ms (total: 2.07 sec)
+[2025.09.04-21.01.32:907][302]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.01.32:908][302]LogContentValidation: Enabled validators:
+[2025.09.04-21.01.32:908][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.01.32:908][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.01.32:908][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.01.32:908][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.01.32:908][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.01.32:908][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.01.32:908][302]AssetCheck: /Game/Blueprints/FireLaser Validating asset
+[2025.09.04-21.01.43:456][440]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.09.04-21.01.43:462][440]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.09.04-21.01.43:488][441]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.09.04-21.01.52:218][489]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_DefaultLayout
+[2025.09.04-21.01.52:219][489]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.09.04-21.02.24:380][326]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/IMC_DefaultLayout.IMC_DefaultLayout
+[2025.09.04-21.02.29:986][871]LogSlate: Window 'IMC_DefaultLayout' being destroyed
+[2025.09.04-21.03.26:026][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.03.26:108][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerControllerSpace] ([2] browsable assets)...
+[2025.09.04-21.03.26:108][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerControllerSpace]
+[2025.09.04-21.03.26:120][453]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerControllerSpace
+[2025.09.04-21.03.26:121][453]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerControllerSpace22F2F41848590F5EEC6D0CBDC1A5690D.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerControllerSpace.uasset'
+[2025.09.04-21.03.26:132][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.393 ms (total: 2.17 sec)
+[2025.09.04-21.03.26:231][453]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.03.26:231][453]LogContentValidation: Enabled validators:
+[2025.09.04-21.03.26:232][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.03.26:232][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.03.26:232][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.03.26:232][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.03.26:232][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.03.26:232][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.03.26:232][453]AssetCheck: /Game/Blueprints/BP_PlayerControllerSpace Validating asset
+[2025.09.04-21.03.27:067][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.04-21.03.27:074][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.03.27:124][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IMC_DefaultLayout] ([1] browsable assets)...
+[2025.09.04-21.03.27:124][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IMC_DefaultLayout]
+[2025.09.04-21.03.27:132][543]LogSavePackage: Moving output files for package: /Game/Blueprints/IMC_DefaultLayout
+[2025.09.04-21.03.27:132][543]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/IMC_DefaultLayout5CC34D4F4E986A1C8A859B87F65D0D5F.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/IMC_DefaultLayout.uasset'
+[2025.09.04-21.03.27:143][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.576 ms (total: 2.24 sec)
+[2025.09.04-21.03.27:190][543]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.03.27:190][543]LogContentValidation: Enabled validators:
+[2025.09.04-21.03.27:190][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.03.27:190][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.03.27:190][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.03.27:190][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.03.27:190][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.03.27:190][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.03.27:190][543]AssetCheck: /Game/Blueprints/IMC_DefaultLayout Validating asset
+[2025.09.04-21.03.27:206][543]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.04-21.03.49:763][220]LogBlueprint: Error: [AssetLog] C:\Users\facortez\Documents\GitHub\fCortez-csci-c-292-2d-tutorial\tutorialProject2d\Content\Blueprints\BP_PlayerControllerSpace.uasset: [Compiler] This blueprint (self) is not a EnhancedInputSubsystemInterface, therefore ' Target ' must have a connection.
+[2025.09.04-21.03.49:815][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.04-21.05.22:385][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.04-21.05.22:396][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.05.22:441][718]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerControllerSpace] ([2] browsable assets)...
+[2025.09.04-21.05.22:441][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerControllerSpace]
+[2025.09.04-21.05.22:455][718]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerControllerSpace
+[2025.09.04-21.05.22:455][718]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerControllerSpaceFF0DD1CB472C0B31E82B62BE52289854.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerControllerSpace.uasset'
+[2025.09.04-21.05.22:465][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.681 ms (total: 2.31 sec)
+[2025.09.04-21.05.22:552][718]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.05.22:552][718]LogContentValidation: Enabled validators:
+[2025.09.04-21.05.22:552][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.05.22:552][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.05.22:552][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.05.22:552][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.05.22:552][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.05.22:552][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.05.22:552][718]AssetCheck: /Game/Blueprints/BP_PlayerControllerSpace Validating asset
+[2025.09.04-21.05.34:739][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3538.328125
+[2025.09.04-21.05.34:788][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.05.34:788][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3538.370361, Update Interval: 352.265381
+[2025.09.04-21.06.14:889][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.06.14:940][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerPawnSpace] ([2] browsable assets)...
+[2025.09.04-21.06.14:940][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawnSpace]
+[2025.09.04-21.06.14:958][642]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerPawnSpace
+[2025.09.04-21.06.14:958][642]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerPawnSpace94C0C6B74E39A5A166CBC0995A35B512.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerPawnSpace.uasset'
+[2025.09.04-21.06.14:969][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.512 ms (total: 2.39 sec)
+[2025.09.04-21.06.15:023][642]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.06.15:023][642]LogContentValidation: Enabled validators:
+[2025.09.04-21.06.15:023][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.06.15:024][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.06.15:024][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.06.15:024][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.06.15:024][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.06.15:024][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.06.15:024][642]AssetCheck: /Game/Blueprints/BP_PlayerPawnSpace Validating asset
+[2025.09.04-21.06.17:945][990]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-21.06.17:952][990]LogPlayLevel: [PlayLevel] Compiling BP_PlayerPawnSpace before play...
+[2025.09.04-21.06.18:024][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.04-21.06.18:025][990]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2025.09.04-21.06.18:025][990]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.04-21.06.18:026][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
+[2025.09.04-21.06.18:026][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001190s)
+[2025.09.04-21.06.18:058][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.04-21.06.18:060][990]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.04-21.06.18:060][990]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2025.09.04-21.06.18:061][990]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.09.04-21.06.18:061][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-21.06.18:061][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-21.06.18:061][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-21.06.18:061][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-21.06.18:061][990]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-21.06.18:061][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-21.06.18:061][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-21.06.18:061][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-21.06.18:061][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-21.06.18:061][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-21.06.18:061][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-21.06.18:064][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-21.06.18:123][990]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.04-21.06.18:123][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-21.06.18:123][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-21.06.18:123][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-21.06.18:123][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.09.04-21.06.18:123][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.09.04-21.06.18:126][990]LogInit: FAudioDevice initialized with ID 15.
+[2025.09.04-21.06.18:126][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.09.04-21.06.18:126][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.09.04-21.06.18:126][990]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMap'.
+[2025.09.04-21.06.18:126][990]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.04-21.06.18:172][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.06.18:173][990]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.04-21.06.18:173][990]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.04-17.06.18
+[2025.09.04-21.06.18:174][990]LogWorld: Bringing up level for play took: 0.000698
+[2025.09.04-21.06.18:176][990]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.09.04-21.06.18:176][990]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.04-21.06.18:179][990]PIE: Server logged in
+[2025.09.04-21.06.18:179][990]PIE: Play in editor total start time 0.228 seconds.
+[2025.09.04-21.06.18:238][991]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.09.04-21.06.18:294][991]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.04-21.06.29:671][ 96]LogDerivedDataCache: C:/Users/facortez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-21.07.21:042][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-21.07.21:042][284]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.04-21.07.21:042][284]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.04-21.07.21:048][284]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-21.07.21:049][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.07.21:056][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-21.07.21:063][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-21.07.21:104][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.04-21.07.21:104][284]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.09.04-21.07.21:106][284]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.09.04-21.07.21:115][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2025.09.04-21.07.21:225][285]LogPlayLevel: Display: Destroying online subsystem :Context_21
