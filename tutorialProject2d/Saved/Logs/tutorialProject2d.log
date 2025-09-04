@@ -2882,3 +2882,67 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.04-21.07.21:106][284]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
 [2025.09.04-21.07.21:115][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
 [2025.09.04-21.07.21:225][285]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.09.04-21.09.46:782][708]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.04-21.09.46:796][708]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.04-21.09.46:807][708]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.04-21.09.46:827][709]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.04-21.09.49:848][ 37]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.09.04-21.09.49:862][ 37]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.04-21.09.49:907][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.04-21.09.49:909][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.036
+[2025.09.04-21.09.49:910][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerControllerSpace] ([2] browsable assets)...
+[2025.09.04-21.09.49:910][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerControllerSpace]
+[2025.09.04-21.09.49:921][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_PlayerControllerSpace_Auto3
+[2025.09.04-21.09.49:921][ 37]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerControllerSpace_Auto35A634DBC4FA7880B72737FB20013E8C3.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/Autosaves/Game/Blueprints/BP_PlayerControllerSpace_Auto3.uasset'
+[2025.09.04-21.09.49:923][ 37]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.09.04-21.10.01:351][251]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemyPawn
+[2025.09.04-21.10.01:432][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.10.01:433][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyPawn] ([2] browsable assets)...
+[2025.09.04-21.10.01:433][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyPawn]
+[2025.09.04-21.10.01:443][251]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyPawn
+[2025.09.04-21.10.01:443][251]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn1D86577A4C9A643957B7DE8957355B64.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemyPawn.uasset'
+[2025.09.04-21.10.01:449][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.239 ms (total: 2.41 sec)
+[2025.09.04-21.10.01:497][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.04-21.10.01:530][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.04-21.10.01:562][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.04-21.10.01:626][251]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.10.01:626][251]LogContentValidation: Enabled validators:
+[2025.09.04-21.10.01:626][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.10.01:626][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.10.01:626][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.10.01:626][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.10.01:626][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.10.01:626][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.10.01:626][251]AssetCheck: /Game/Blueprints/BP_EnemyPawn Validating asset
+[2025.09.04-21.10.01:664][251]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.04-21.10.25:421][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.10.25:476][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyPawn] ([2] browsable assets)...
+[2025.09.04-21.10.25:476][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyPawn]
+[2025.09.04-21.10.25:490][939]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyPawn
+[2025.09.04-21.10.25:490][939]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawnF94F956A4363261A1F739D80C07352C3.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemyPawn.uasset'
+[2025.09.04-21.10.25:505][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.231 ms (total: 2.49 sec)
+[2025.09.04-21.10.25:590][939]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.10.25:590][939]LogContentValidation: Enabled validators:
+[2025.09.04-21.10.25:590][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.10.25:590][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.10.25:590][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.10.25:590][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.10.25:590][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.10.25:590][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.10.25:590][939]AssetCheck: /Game/Blueprints/BP_EnemyPawn Validating asset
+[2025.09.04-21.10.26:091][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.04-21.10.26:095][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-21.10.26:161][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerControllerSpace] ([2] browsable assets)...
+[2025.09.04-21.10.26:161][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerControllerSpace]
+[2025.09.04-21.10.26:174][993]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerControllerSpace
+[2025.09.04-21.10.26:175][993]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerControllerSpace9DF49F13495D67EA463CB9964A951905.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerControllerSpace.uasset'
+[2025.09.04-21.10.26:188][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.215 ms (total: 2.59 sec)
+[2025.09.04-21.10.26:240][993]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-21.10.26:241][993]LogContentValidation: Enabled validators:
+[2025.09.04-21.10.26:241][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-21.10.26:241][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-21.10.26:241][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-21.10.26:241][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-21.10.26:241][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-21.10.26:241][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-21.10.26:241][993]AssetCheck: /Game/Blueprints/BP_PlayerControllerSpace Validating asset
