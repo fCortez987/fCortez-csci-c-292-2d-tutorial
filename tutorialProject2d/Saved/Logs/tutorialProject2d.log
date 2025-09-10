@@ -4056,3 +4056,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.10-21.26.26:962][883]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
 [2025.09.10-21.26.26:968][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
 [2025.09.10-21.26.27:069][884]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.09.10-21.28.51:919][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.10-21.28.51:938][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-21.28.51:999][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP_MainUI] ([2] browsable assets)...
+[2025.09.10-21.28.52:003][453]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP_MainUI.WBP_MainUI]
+[2025.09.10-21.28.52:003][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP_MainUI]
+[2025.09.10-21.28.52:018][453]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_MainUI
+[2025.09.10-21.28.52:018][453]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/WBP_MainUI4AE64D34422D54444D688E8003598D1B.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/WBP_MainUI.uasset'
+[2025.09.10-21.28.52:031][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.166 ms (total: 3.99 sec)
+[2025.09.10-21.28.52:097][453]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-21.28.52:097][453]LogContentValidation: Enabled validators:
+[2025.09.10-21.28.52:097][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-21.28.52:097][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-21.28.52:097][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-21.28.52:097][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-21.28.52:097][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-21.28.52:097][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-21.28.52:097][453]AssetCheck: /Game/Blueprints/WBP_MainUI Validating asset
+[2025.09.10-21.29.16:007][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
