@@ -1618,3 +1618,1261 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.10-20.21.53:485][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.10-20.21.53:485][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.10-20.21.53:485][405]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.23.08:002][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.10-20.23.50:416][513]LogEditorTransaction: Undo Delete current selection
+[2025.09.10-20.24.17:905][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.09.10-20.24.17:910][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.24.17:966][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerPawnSpace] ([2] browsable assets)...
+[2025.09.10-20.24.17:966][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawnSpace]
+[2025.09.10-20.24.17:986][663]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerPawnSpace
+[2025.09.10-20.24.17:987][663]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerPawnSpaceD2F9BBF94A95180CE06DFA827AF5763D.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerPawnSpace.uasset'
+[2025.09.10-20.24.17:997][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.548 ms (total: 520.756 ms)
+[2025.09.10-20.24.18:033][663]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.24.18:033][663]LogContentValidation: Enabled validators:
+[2025.09.10-20.24.18:033][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.24.18:033][663]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.24.18:033][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.24.18:033][663]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.24.18:033][663]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.24.18:033][663]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.24.18:033][663]AssetCheck: /Game/Blueprints/BP_PlayerPawnSpace Validating asset
+[2025.09.10-20.25.24:816][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.10-20.25.25:455][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.10-20.25.26:556][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.10-20.25.29:660][885]Cmd: DELETE
+[2025.09.10-20.25.29:669][885]Cmd: ACTOR DELETE
+[2025.09.10-20.25.29:682][885]LogEditorActor: Deleted Actor: BP_EnemyPawn_C
+[2025.09.10-20.25.29:714][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.10-20.25.29:716][885]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.09.10-20.25.33:934][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.09.10-20.25.33:934][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.09.10-20.25.33:934][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_0
+[2025.09.10-20.25.33:935][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_0
+[2025.09.10-20.25.33:938][316]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.10-20.25.37:096][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.10-20.25.37:098][688]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.09.10-20.25.37:104][688]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.09.10-20.25.37:104][688]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner_C
+[2025.09.10-20.25.37:105][688]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.25.37:106][688]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EnemySpawner.BP_EnemySpawner as actor: BP_EnemySpawner_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.25.44:562][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.10-20.25.44:566][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.25.44:683][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.10-20.25.44:698][563]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2025.09.10-20.25.44:699][563]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/MainMap80E9676845C06B0E05E78990A3093DE0.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Maps/MainMap.umap'
+[2025.09.10-20.25.44:710][563]LogFileHelpers: Saving map 'MainMap' took 0.078
+[2025.09.10-20.25.44:726][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.083 ms (total: 679.839 ms)
+[2025.09.10-20.25.44:781][563]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.25.44:781][563]LogContentValidation: Enabled validators:
+[2025.09.10-20.25.44:781][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.25.44:781][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.25.44:781][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.25.44:781][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.25.44:781][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.25.44:781][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.25.44:781][563]AssetCheck: /Game/Maps/MainMap Validating asset
+[2025.09.10-20.26.47:769][839]LogEditorTransaction: Undo Move Node
+[2025.09.10-20.26.48:894][915]LogEditorTransaction: Redo Move Node
+[2025.09.10-20.27.04:995][759]LogEditorTransaction: Undo Move Node
+[2025.09.10-20.27.29:837][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1391.890991
+[2025.09.10-20.27.29:903][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-20.27.29:903][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1391.949585, Update Interval: 304.145630
+[2025.09.10-20.28.49:583][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.10-20.28.49:588][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.28.49:644][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.28.49:644][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.28.49:664][784]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.28.49:665][784]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawnerE8116A2449E381391053B4A32FE69982.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.28.49:675][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.308 ms (total: 767.148 ms)
+[2025.09.10-20.28.49:726][784]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.28.49:726][784]LogContentValidation: Enabled validators:
+[2025.09.10-20.28.49:726][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.28.49:726][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.28.49:726][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.28.49:726][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.28.49:727][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.28.49:727][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.28.49:727][784]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.28.50:669][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.10-20.29.22:279][615]LogEditorTransaction: Undo Move Node
+[2025.09.10-20.29.22:806][624]LogEditorTransaction: Undo Create Reroute Node
+[2025.09.10-20.29.32:419][711]LogEditorTransaction: Undo Move Node
+[2025.09.10-20.29.33:073][731]LogEditorTransaction: Undo Create Reroute Node
+[2025.09.10-20.30.02:414][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.10-20.30.02:418][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.30.02:476][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.30.02:476][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.30.02:496][ 70]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.30.02:497][ 70]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner4445ED6B4E4A885A533822AB8BC04EFA.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.30.02:507][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.626 ms (total: 856.774 ms)
+[2025.09.10-20.30.02:559][ 70]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.30.02:560][ 70]LogContentValidation: Enabled validators:
+[2025.09.10-20.30.02:560][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.30.02:560][ 70]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.30.02:560][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.30.02:560][ 70]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.30.02:560][ 70]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.30.02:560][ 70]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.30.02:560][ 70]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.30.03:331][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.10-20.30.04:941][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.30.04:956][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.30.04:956][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.30.04:958][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001820s)
+[2025.09.10-20.30.04:958][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001856s)
+[2025.09.10-20.30.04:989][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.09.10-20.30.04:992][326]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.30.04:995][326]LogPlayLevel: PIE: World Init took: (0.002137s)
+[2025.09.10-20.30.04:996][326]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.10-20.30.04:996][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.30.04:996][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.30.04:996][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.30.04:996][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.30.04:996][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.30.04:996][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.30.04:996][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.30.04:996][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.30.04:996][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.30.04:996][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.30.04:996][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.30.04:999][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.30.05:043][326]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.30.05:044][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.30.05:044][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.30.05:044][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.30.05:044][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.10-20.30.05:044][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.10-20.30.05:047][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.10-20.30.05:047][326]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.10-20.30.05:047][326]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2025.09.10-20.30.05:047][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.10-20.30.05:047][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.10-20.30.05:052][326]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.30.05:052][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.30.05
+[2025.09.10-20.30.05:052][326]LogWorld: Bringing up level for play took: 0.000637
+[2025.09.10-20.30.05:055][326]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.09.10-20.30.05:061][326]PIE: Server logged in
+[2025.09.10-20.30.05:063][326]PIE: Play in editor total start time 0.116 seconds.
+[2025.09.10-20.30.05:112][327]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.30.19:327][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.30.19:327][  5]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.30.19:327][  5]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.30.19:327][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.30.19:331][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.30.19:336][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.30.19:364][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.10-20.30.19:364][  5]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.10-20.30.19:364][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.10-20.30.19:366][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.10-20.30.19:370][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.30.19:373][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.09.10-20.30.19:428][  6]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.09.10-20.30.21:459][230]Cmd: ACTOR SELECT ALL DESCENDANTS
+[2025.09.10-20.30.21:490][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.10-20.30.21:970][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.10-20.32.42:524][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.10-20.32.42:528][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.32.42:584][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.32.42:584][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.32.42:605][141]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.32.42:605][141]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawnerDB229C57450A357F30ECAFBC11040D78.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.32.42:617][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.318 ms (total: 946.093 ms)
+[2025.09.10-20.32.42:667][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.32.42:667][141]LogContentValidation: Enabled validators:
+[2025.09.10-20.32.42:667][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.32.42:667][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.32.42:667][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.32.42:667][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.32.42:667][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.32.42:667][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.32.42:667][141]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.32.44:629][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.32.44:639][371]LogPlayLevel: [PlayLevel] Compiling BP_EnemySpawner before play...
+[2025.09.10-20.32.44:705][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.10-20.32.44:708][371]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (1 blueprints)
+[2025.09.10-20.32.44:708][371]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.32.44:709][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001241s)
+[2025.09.10-20.32.44:709][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001278s)
+[2025.09.10-20.32.44:738][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.10-20.32.44:739][371]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.32.44:740][371]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2025.09.10-20.32.44:742][371]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.10-20.32.44:742][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.32.44:742][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.32.44:742][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.32.44:742][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.32.44:742][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.32.44:742][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.32.44:742][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.32.44:742][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.32.44:742][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.32.44:742][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.32.44:742][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.32.44:744][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.32.44:784][371]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.32.44:785][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.32.44:785][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.32.44:785][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.32.44:786][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.10-20.32.44:786][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.10-20.32.44:788][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.10-20.32.44:788][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.10-20.32.44:788][371]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.10-20.32.44:788][371]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMap'.
+[2025.09.10-20.32.44:788][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.10-20.32.44:849][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.32.44:851][371]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.32.44:851][371]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.32.44
+[2025.09.10-20.32.44:852][371]LogWorld: Bringing up level for play took: 0.000888
+[2025.09.10-20.32.44:854][371]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.10-20.32.44:855][371]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.32.44:855][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.32.44:855][371]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.32.44:855][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.32.44:855][371]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.32.44:855][371]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Limits calced
+[2025.09.10-20.32.44:858][371]PIE: Server logged in
+[2025.09.10-20.32.44:858][371]PIE: Play in editor total start time 0.22 seconds.
+[2025.09.10-20.32.44:946][372]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.09.10-20.32.45:009][372]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.32.53:452][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.32.53:452][292]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.32.53:452][292]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.32.53:461][292]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.32.53:462][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.32.53:470][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.32.53:474][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.32.53:500][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.10-20.32.53:500][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.09.10-20.32.53:503][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.09.10-20.32.53:509][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.09.10-20.32.53:611][293]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.10-20.33.03:675][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1725.714600
+[2025.09.10-20.33.03:733][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-20.33.03:733][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1725.764404, Update Interval: 340.086670
+[2025.09.10-20.33.18:149][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.10-20.33.18:152][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.33.18:216][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.33.18:216][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.33.18:236][ 88]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.33.18:236][ 88]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawnerC01D1F3B46333E0B693FB2A02B4182B6.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.33.18:246][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.953 ms (total: 1.04 sec)
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: Enabled validators:
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.33.18:299][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.33.18:299][ 88]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.33.20:361][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.10-20.33.21:457][440]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.33.21:466][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.33.21:466][440]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.33.21:467][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001265s)
+[2025.09.10-20.33.21:467][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001299s)
+[2025.09.10-20.33.21:497][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.10-20.33.21:499][440]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.33.21:500][440]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2025.09.10-20.33.21:502][440]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.10-20.33.21:502][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.33.21:502][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.33.21:502][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.33.21:502][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.33.21:502][440]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.33.21:502][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.33.21:502][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.33.21:502][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.33.21:502][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.33.21:502][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.33.21:502][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.33.21:504][440]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.33.21:543][440]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.33.21:544][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.33.21:544][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.33.21:544][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.33.21:544][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.10-20.33.21:544][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.10-20.33.21:547][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.10-20.33.21:547][440]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.10-20.33.21:547][440]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMap'.
+[2025.09.10-20.33.21:547][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.10-20.33.21:547][440]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.10-20.33.21:582][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.33.21:582][440]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.33.21:583][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.33.21
+[2025.09.10-20.33.21:583][440]LogWorld: Bringing up level for play took: 0.000810
+[2025.09.10-20.33.21:586][440]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.10-20.33.21:586][440]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.33.21:586][440]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] player is correct
+[2025.09.10-20.33.21:586][440]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.33.21:586][440]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.33.21:586][440]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.33.21:586][440]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.33.21:590][440]PIE: Server logged in
+[2025.09.10-20.33.21:592][440]PIE: Play in editor total start time 0.128 seconds.
+[2025.09.10-20.33.21:670][441]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.33.27:183][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.33.27:183][963]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.33.27:184][963]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.33.27:191][963]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.33.27:191][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.33.27:199][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.33.27:204][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.33.27:233][963]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.10-20.33.27:233][963]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.09.10-20.33.27:235][963]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.09.10-20.33.27:241][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.09.10-20.33.27:342][964]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.09.10-20.33.28:724][130]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.33.28:731][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.33.28:731][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.33.28:732][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001356s)
+[2025.09.10-20.33.28:732][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001387s)
+[2025.09.10-20.33.28:764][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.10-20.33.28:765][130]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.33.28:766][130]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2025.09.10-20.33.28:767][130]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.10-20.33.28:767][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.33.28:767][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.33.28:767][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.33.28:767][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.33.28:767][130]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.33.28:767][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.33.28:767][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.33.28:767][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.33.28:767][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.33.28:767][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.33.28:767][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.33.28:769][130]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.33.28:808][130]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.33.28:808][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.33.28:808][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.33.28:808][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.33.28:808][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.10-20.33.28:808][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.10-20.33.28:811][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.10-20.33.28:811][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.10-20.33.28:811][130]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.10-20.33.28:811][130]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMap'.
+[2025.09.10-20.33.28:811][130]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.10-20.33.28:865][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.33.28:865][130]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.33.28:866][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.33.28
+[2025.09.10-20.33.28:866][130]LogWorld: Bringing up level for play took: 0.000690
+[2025.09.10-20.33.28:869][130]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.09.10-20.33.28:869][130]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.33.28:870][130]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] player is correct
+[2025.09.10-20.33.28:870][130]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.33.28:870][130]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.33.28:870][130]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.33.28:870][130]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.33.28:873][130]PIE: Server logged in
+[2025.09.10-20.33.28:874][130]PIE: Play in editor total start time 0.143 seconds.
+[2025.09.10-20.33.28:927][131]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.33.32:149][456]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.09.10-20.33.39:364][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.33.39:364][247]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.33.39:364][247]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.33.39:367][247]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.33.39:368][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.33.39:375][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.33.39:379][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.33.39:404][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.10-20.33.39:404][247]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.09.10-20.33.39:406][247]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.09.10-20.33.39:413][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.10-20.33.39:515][248]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.09.10-20.33.50:073][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.33.50:079][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.33.50:079][453]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.33.50:081][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
+[2025.09.10-20.33.50:081][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001263s)
+[2025.09.10-20.33.50:112][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.10-20.33.50:114][453]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.33.50:115][453]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2025.09.10-20.33.50:115][453]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.09.10-20.33.50:115][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.33.50:115][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.33.50:115][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.33.50:115][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.33.50:115][453]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.33.50:115][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.33.50:115][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.33.50:115][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.33.50:115][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.33.50:115][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.33.50:115][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.33.50:117][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.33.50:157][453]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.33.50:157][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.33.50:157][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.33.50:157][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.33.50:157][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.09.10-20.33.50:157][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.09.10-20.33.50:159][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.09.10-20.33.50:159][453]LogInit: FAudioDevice initialized with ID 8.
+[2025.09.10-20.33.50:159][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.09.10-20.33.50:159][453]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMap'.
+[2025.09.10-20.33.50:159][453]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.10-20.33.50:218][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.33.50:219][453]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.33.50:219][453]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.33.50
+[2025.09.10-20.33.50:219][453]LogWorld: Bringing up level for play took: 0.000635
+[2025.09.10-20.33.50:222][453]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.10-20.33.50:222][453]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.33.50:222][453]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] player is correct
+[2025.09.10-20.33.50:222][453]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.33.50:222][453]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.33.50:222][453]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.33.50:222][453]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.33.50:226][453]PIE: Server logged in
+[2025.09.10-20.33.50:228][453]PIE: Play in editor total start time 0.148 seconds.
+[2025.09.10-20.33.50:306][454]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.33.51:294][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.33.51:294][532]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.33.51:294][532]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.33.51:302][532]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.33.51:302][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.33.51:311][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.33.51:316][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.33.51:343][532]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.10-20.33.51:344][532]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.09.10-20.33.51:345][532]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.09.10-20.33.51:352][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.10-20.33.51:461][533]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.10-20.34.08:369][455]LogEditorTransaction: Undo Move Node
+[2025.09.10-20.34.08:956][468]LogEditorTransaction: Undo Create Pin Link
+[2025.09.10-20.34.10:783][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.10-20.34.10:787][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.34.10:852][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.34.10:852][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.34.10:873][668]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.34.10:874][668]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawnerEECE590A4B9C26F92956CAB5A935B0E5.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.34.10:885][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.127 ms (total: 1.13 sec)
+[2025.09.10-20.34.10:953][668]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.34.10:953][668]LogContentValidation: Enabled validators:
+[2025.09.10-20.34.10:953][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.34.10:953][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.34.10:953][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.34.10:953][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.34.10:953][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.34.10:953][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.34.10:953][668]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.34.12:456][846]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.34.12:464][846]LogPlayLevel: [PlayLevel] Compiling BP_EnemySpawner before play...
+[2025.09.10-20.34.12:534][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.10-20.34.12:536][846]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2025.09.10-20.34.12:537][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.34.12:538][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001193s)
+[2025.09.10-20.34.12:538][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001227s)
+[2025.09.10-20.34.12:567][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.10-20.34.12:568][846]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.34.12:570][846]LogPlayLevel: PIE: World Init took: (0.001679s)
+[2025.09.10-20.34.12:570][846]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.10-20.34.12:570][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.34.12:570][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.34.12:570][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.34.12:570][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.34.12:570][846]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.34.12:570][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.34.12:570][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.34.12:570][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.34.12:570][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.34.12:570][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.34.12:570][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.34.12:572][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.34.12:610][846]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.34.12:610][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.34.12:610][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.34.12:610][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.34.12:611][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.10-20.34.12:611][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.10-20.34.12:613][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.10-20.34.12:613][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.10-20.34.12:613][846]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.10-20.34.12:613][846]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMap'.
+[2025.09.10-20.34.12:613][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.10-20.34.12:667][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.34.12:667][846]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.34.12:668][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.34.12
+[2025.09.10-20.34.12:668][846]LogWorld: Bringing up level for play took: 0.000584
+[2025.09.10-20.34.12:671][846]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.10-20.34.12:671][846]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.34.12:671][846]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.34.12:672][846]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.34.12:672][846]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.34.12:672][846]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.34.12:672][846]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] bro spawned
+[2025.09.10-20.34.12:674][846]PIE: Server logged in
+[2025.09.10-20.34.12:674][846]PIE: Play in editor total start time 0.211 seconds.
+[2025.09.10-20.34.12:813][847]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.34.14:459][993]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] bro spawned
+[2025.09.10-20.34.16:466][182]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] bro spawned
+[2025.09.10-20.34.18:476][363]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] bro spawned
+[2025.09.10-20.34.20:478][540]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] bro spawned
+[2025.09.10-20.34.22:076][686]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.09.10-20.34.22:486][724]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] bro spawned
+[2025.09.10-20.34.22:878][760]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently_IncludingInitialMouseDown
+[2025.09.10-20.34.24:489][911]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] bro spawned
+[2025.09.10-20.34.24:781][938]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.09.10-20.34.25:652][ 20]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently_IncludingInitialMouseDown
+[2025.09.10-20.34.26:005][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.34.26:005][ 49]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.34.26:006][ 49]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.34.26:013][ 49]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.34.26:014][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.34.26:023][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.34.26:029][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.34.26:055][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.10-20.34.26:055][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.09.10-20.34.26:056][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.09.10-20.34.26:064][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.10-20.34.26:164][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.10-20.34.36:708][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.10-20.34.36:712][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.34.36:769][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.34.36:769][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.34.36:790][260]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.34.36:791][260]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner34D29C384D1F8A1FAA91A4A7D8C8CB1E.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.34.36:801][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.881 ms (total: 1.22 sec)
+[2025.09.10-20.34.36:853][260]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.34.36:853][260]LogContentValidation: Enabled validators:
+[2025.09.10-20.34.36:853][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.34.36:853][260]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.34.36:853][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.34.36:853][260]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.34.36:853][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.34.36:853][260]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.34.36:853][260]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.34.49:420][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.10-20.34.49:424][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.34.49:487][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.34.49:487][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.34.49:508][745]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.34.49:508][745]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner834841924FDEE91CDC037BAC01D9AB66.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.34.49:518][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.189 ms (total: 1.32 sec)
+[2025.09.10-20.34.49:568][745]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.34.49:568][745]LogContentValidation: Enabled validators:
+[2025.09.10-20.34.49:568][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.34.49:569][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.34.49:569][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.34.49:569][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.34.49:569][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.34.49:569][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.34.49:569][745]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.34.53:825][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.34.53:836][248]LogPlayLevel: [PlayLevel] Compiling BP_EnemySpawner before play...
+[2025.09.10-20.34.53:906][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.10-20.34.53:908][248]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2025.09.10-20.34.53:908][248]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.34.53:910][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001180s)
+[2025.09.10-20.34.53:910][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001214s)
+[2025.09.10-20.34.53:938][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.09.10-20.34.53:938][248]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.34.53:940][248]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2025.09.10-20.34.53:941][248]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.09.10-20.34.53:941][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.34.53:941][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.34.53:941][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.34.53:941][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.34.53:941][248]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.34.53:941][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.34.53:941][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.34.53:941][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.34.53:941][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.34.53:941][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.34.53:941][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.34.53:943][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.34.53:982][248]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.34.53:982][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.34.53:982][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.34.53:982][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.34.53:982][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.09.10-20.34.53:983][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.09.10-20.34.53:985][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.09.10-20.34.53:985][248]LogInit: FAudioDevice initialized with ID 10.
+[2025.09.10-20.34.53:985][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.09.10-20.34.53:985][248]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMap'.
+[2025.09.10-20.34.53:985][248]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.10-20.34.54:035][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.34.54:035][248]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.34.54:035][248]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.34.54
+[2025.09.10-20.34.54:036][248]LogWorld: Bringing up level for play took: 0.000607
+[2025.09.10-20.34.54:038][248]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.10-20.34.54:038][248]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.34.54:039][248]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.34.54:039][248]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.34.54:039][248]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.34.54:039][248]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.34.54:041][248]PIE: Server logged in
+[2025.09.10-20.34.54:041][248]PIE: Play in editor total start time 0.208 seconds.
+[2025.09.10-20.34.54:171][249]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.35.00:276][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.35.00:276][787]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.35.00:276][787]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.35.00:283][787]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.35.00:284][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.35.00:291][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.35.00:296][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.35.00:325][787]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.10-20.35.00:325][787]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.09.10-20.35.00:327][787]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.09.10-20.35.00:333][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.10-20.35.00:430][788]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.10-20.35.08:054][698]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.35.08:063][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.35.08:064][698]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.35.08:065][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001211s)
+[2025.09.10-20.35.08:065][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001246s)
+[2025.09.10-20.35.08:095][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.10-20.35.08:096][698]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.35.08:097][698]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2025.09.10-20.35.08:098][698]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.09.10-20.35.08:098][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.35.08:098][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.35.08:098][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.35.08:098][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.35.08:098][698]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.35.08:098][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.35.08:098][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.35.08:098][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.35.08:098][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.35.08:098][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.35.08:098][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.35.08:100][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.35.08:139][698]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.35.08:139][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.35.08:139][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.35.08:139][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.35.08:140][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.09.10-20.35.08:140][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.09.10-20.35.08:142][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.09.10-20.35.08:142][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.09.10-20.35.08:142][698]LogInit: FAudioDevice initialized with ID 11.
+[2025.09.10-20.35.08:142][698]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMap'.
+[2025.09.10-20.35.08:142][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.10-20.35.08:203][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.35.08:203][698]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.35.08:204][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.35.08
+[2025.09.10-20.35.08:204][698]LogWorld: Bringing up level for play took: 0.000605
+[2025.09.10-20.35.08:207][698]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.10-20.35.08:207][698]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.35.08:208][698]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.35.08:208][698]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.35.08:208][698]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.35.08:208][698]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.35.08:211][698]PIE: Server logged in
+[2025.09.10-20.35.08:212][698]PIE: Play in editor total start time 0.151 seconds.
+[2025.09.10-20.35.08:293][699]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.35.09:397][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.35.09:397][780]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.35.09:397][780]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.35.09:404][780]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.35.09:406][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.35.09:414][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.35.09:419][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.35.09:448][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.10-20.35.09:448][780]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.09.10-20.35.09:450][780]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.09.10-20.35.09:455][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.10-20.35.09:555][781]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.10-20.35.10:299][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.10-20.35.17:664][646]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.35.17:674][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.35.17:674][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.35.17:676][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001193s)
+[2025.09.10-20.35.17:676][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001229s)
+[2025.09.10-20.35.17:705][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.10-20.35.17:706][646]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.35.17:708][646]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2025.09.10-20.35.17:708][646]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.09.10-20.35.17:709][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.35.17:709][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.35.17:709][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.35.17:709][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.35.17:709][646]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.35.17:709][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.35.17:709][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.35.17:709][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.35.17:709][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.35.17:709][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.35.17:709][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.35.17:711][646]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.35.17:749][646]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.35.17:749][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.35.17:750][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.35.17:750][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.35.17:750][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.09.10-20.35.17:750][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.09.10-20.35.17:752][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.09.10-20.35.17:752][646]LogInit: FAudioDevice initialized with ID 12.
+[2025.09.10-20.35.17:752][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.09.10-20.35.17:752][646]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMap'.
+[2025.09.10-20.35.17:753][646]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.10-20.35.17:802][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.35.17:802][646]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.35.17:802][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.35.17
+[2025.09.10-20.35.17:803][646]LogWorld: Bringing up level for play took: 0.000614
+[2025.09.10-20.35.17:805][646]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.10-20.35.17:805][646]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.35.17:807][646]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.35.17:807][646]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.35.17:807][646]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.35.17:807][646]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.35.17:810][646]PIE: Server logged in
+[2025.09.10-20.35.17:811][646]PIE: Play in editor total start time 0.139 seconds.
+[2025.09.10-20.35.17:894][647]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.35.21:147][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.35.21:147][920]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.35.21:148][920]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.35.21:156][920]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.35.21:157][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.35.21:167][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.35.21:172][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.35.21:204][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.10-20.35.21:204][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.09.10-20.35.21:206][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.09.10-20.35.21:212][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.10-20.35.21:310][921]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.10-20.35.21:819][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.35.21:826][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.35.21:826][982]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.35.21:828][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001232s)
+[2025.09.10-20.35.21:828][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001267s)
+[2025.09.10-20.35.21:858][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.10-20.35.21:860][982]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.35.21:861][982]LogPlayLevel: PIE: World Init took: (0.002070s)
+[2025.09.10-20.35.21:862][982]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.09.10-20.35.21:862][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.35.21:862][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.35.21:862][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.35.21:862][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.35.21:862][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.35.21:862][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.35.21:862][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.35.21:862][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.35.21:862][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.35.21:862][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.35.21:862][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.35.21:864][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.35.21:904][982]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.35.21:905][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.35.21:905][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.35.21:905][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.35.21:905][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.09.10-20.35.21:905][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.09.10-20.35.21:908][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.09.10-20.35.21:908][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.09.10-20.35.21:908][982]LogInit: FAudioDevice initialized with ID 13.
+[2025.09.10-20.35.21:908][982]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMap'.
+[2025.09.10-20.35.21:908][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.10-20.35.21:951][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.35.21:952][982]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.35.21:952][982]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.35.21
+[2025.09.10-20.35.21:953][982]LogWorld: Bringing up level for play took: 0.000611
+[2025.09.10-20.35.21:955][982]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.09.10-20.35.21:955][982]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.35.21:956][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.35.21:956][982]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.35.21:956][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.35.21:956][982]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.35.21:958][982]PIE: Server logged in
+[2025.09.10-20.35.21:960][982]PIE: Play in editor total start time 0.134 seconds.
+[2025.09.10-20.35.22:018][983]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.36.05:735][805]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.10-20.36.20:468][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.36.20:468][268]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.36.20:468][268]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.36.20:473][268]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.36.20:473][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.36.20:481][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.36.20:486][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.36.20:513][268]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.10-20.36.20:513][268]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.09.10-20.36.20:514][268]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.09.10-20.36.20:520][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.10-20.36.20:564][269]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.09.10-20.36.21:860][413]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.36.21:868][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.36.21:868][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.36.21:870][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001189s)
+[2025.09.10-20.36.21:870][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001224s)
+[2025.09.10-20.36.21:901][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.10-20.36.21:902][413]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.36.21:904][413]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2025.09.10-20.36.21:904][413]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.09.10-20.36.21:904][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.36.21:904][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.36.21:904][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.36.21:904][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.36.21:904][413]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.36.21:904][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.36.21:904][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.36.21:906][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.36.21:906][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.36.21:906][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.36.21:906][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.36.21:908][413]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.36.21:950][413]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.36.21:951][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.36.21:951][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.36.21:951][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.36.21:951][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.09.10-20.36.21:951][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.09.10-20.36.21:954][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.09.10-20.36.21:954][413]LogInit: FAudioDevice initialized with ID 14.
+[2025.09.10-20.36.21:954][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.09.10-20.36.21:954][413]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMap'.
+[2025.09.10-20.36.21:954][413]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.10-20.36.21:958][413]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.36.21:959][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.36.21
+[2025.09.10-20.36.21:959][413]LogWorld: Bringing up level for play took: 0.000530
+[2025.09.10-20.36.21:961][413]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.09.10-20.36.21:963][413]PIE: Server logged in
+[2025.09.10-20.36.21:965][413]PIE: Play in editor total start time 0.097 seconds.
+[2025.09.10-20.36.22:013][414]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.36.26:137][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.36.26:137][897]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.36.26:137][897]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.36.26:137][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.36.26:141][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.36.26:146][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.36.26:173][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.36.26:173][897]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.10-20.36.26:173][897]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.09.10-20.36.26:175][897]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.09.10-20.36.26:180][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.10-20.36.26:230][898]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.09.10-20.37.23:391][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.37.23:398][498]LogPlayLevel: [PlayLevel] Compiling BP_EnemySpawner before play...
+[2025.09.10-20.37.23:444][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.37.23:488][498]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.37.23:488][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.37.23:509][498]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.37.23:510][498]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner6BDEB61A429A030207EB7D8FF9B2AA1D.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.37.23:520][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.751 ms (total: 1.39 sec)
+[2025.09.10-20.37.23:550][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.10-20.37.23:553][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (1 blueprints)
+[2025.09.10-20.37.23:553][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.37.23:554][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001194s)
+[2025.09.10-20.37.23:554][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001230s)
+[2025.09.10-20.37.23:579][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.10-20.37.23:579][498]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.37.23:581][498]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2025.09.10-20.37.23:581][498]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.09.10-20.37.23:582][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.37.23:582][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.37.23:582][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.37.23:582][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.37.23:582][498]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.37.23:582][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.37.23:582][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.37.23:582][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.37.23:582][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.37.23:582][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.37.23:582][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.37.23:584][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.37.23:624][498]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.37.23:624][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.37.23:624][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.37.23:624][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.37.23:624][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.09.10-20.37.23:624][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.09.10-20.37.23:627][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.09.10-20.37.23:627][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.09.10-20.37.23:627][498]LogInit: FAudioDevice initialized with ID 15.
+[2025.09.10-20.37.23:627][498]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMap'.
+[2025.09.10-20.37.23:627][498]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.10-20.37.23:687][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.37.23:687][498]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.37.23:688][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.37.23
+[2025.09.10-20.37.23:688][498]LogWorld: Bringing up level for play took: 0.000653
+[2025.09.10-20.37.23:690][498]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.09.10-20.37.23:691][498]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.37.23:691][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.37.23:691][498]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.37.23:691][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.37.23:691][498]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.37.23:693][498]PIE: Server logged in
+[2025.09.10-20.37.23:694][498]PIE: Play in editor total start time 0.297 seconds.
+[2025.09.10-20.37.23:770][499]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.37.23:770][499]LogContentValidation: Enabled validators:
+[2025.09.10-20.37.23:770][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.37.23:770][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.37.23:770][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.37.23:770][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.37.23:770][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.37.23:770][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.37.23:771][499]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.37.23:829][499]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.37.26:895][792]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.09.10-20.37.27:534][858]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently_IncludingInitialMouseDown
+[2025.09.10-20.37.30:397][133]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.09.10-20.37.30:788][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.37.30:788][170]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.37.30:788][170]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.37.30:795][170]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.37.30:795][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.37.30:803][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.37.30:809][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.37.30:837][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.10-20.37.30:837][170]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.09.10-20.37.30:839][170]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.09.10-20.37.30:844][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.10-20.37.30:927][171]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.09.10-20.37.32:176][319]LogEditorTransaction: Undo Move Node
+[2025.09.10-20.37.32:379][322]LogShaderCompilers: Display: ================================================
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Total job queries 18,216, among them cache hits 4,468 (24.53%), DDC hits 12,254 (67.27%), Duplicates 925 (5.08%)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Tracking 12,823 distinct input hashes that result in 11,741 distinct outputs (91.56%)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: RAM used: 156.12 MiB of 819.20 MiB budget. Usage: 19.06%
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Shaders Compiled: 569
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Jobs assigned 569, completed 569 (100%)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Average time worker was idle: 28.85 s
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Time job spent in pending queue: average 12.47 s, longest 56.94 s
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Job execution time: average 15.47 s, max 62.79 s
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Job life time (pending + execution): average 27.95 s, max 65.02
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Shader code size: total 9.186 MiB, numShaders 592, average 15.89 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 180.60 s
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.46%
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Jobs were issued in 140 batches (only local compilation was used), average 4.06 jobs/batch
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Average processing rate: 3.15 jobs/sec
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Total thread time: 1,274.626 s
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Total thread preprocess time: 339.548 s
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Percentage time preprocessing: 26.64%
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Effective parallelization: 7.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.882214
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 9.31 sec, max 22.32 sec, min 5.99 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 7.61 sec, max 12.06 sec, min 3.74 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 7.41 sec, max 11.02 sec, min 3.64 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 5.27 sec, max 13.64 sec, min 3.94 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 4.33 sec, max 4.33 sec, min 4.33 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 26.69% of total time (compiled   80 times, average 4.25 sec, max 9.70 sec, min 2.86 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 9.56% of total time (compiled   16 times, average 7.61 sec, max 12.06 sec, min 3.74 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.31% of total time (compiled   10 times, average 9.31 sec, max 22.32 sec, min 5.99 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.32% of total time (compiled   43 times, average 1.87 sec, max 13.70 sec, min 0.42 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.00% of total time (compiled   47 times, average 1.63 sec, max 14.70 sec, min 0.19 sec)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: === Material stats ===
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Materials Translated:    141
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Material Translation Only: 0.08 s (42%)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.10-20.37.32:380][322]LogShaderCompilers: Display: ================================================
+[2025.09.10-20.37.32:582][326]LogEditorTransaction: Undo Break Pin Link
+[2025.09.10-20.37.32:942][349]LogEditorTransaction: Undo Create Pin Link
+[2025.09.10-20.37.33:470][404]LogEditorTransaction: Undo Move Node
+[2025.09.10-20.37.33:959][453]LogEditorTransaction: Undo Add Node
+[2025.09.10-20.38.01:181][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.38.01:191][654]LogPlayLevel: [PlayLevel] Compiling BP_EnemySpawner before play...
+[2025.09.10-20.38.01:232][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.38.01:272][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.38.01:272][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.38.01:292][654]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.38.01:293][654]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner1E4978E44A4303CA929F6F99868B7A4D.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.38.01:303][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.901 ms (total: 1.46 sec)
+[2025.09.10-20.38.01:334][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.10-20.38.01:335][654]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2025.09.10-20.38.01:335][654]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.38.01:336][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001175s)
+[2025.09.10-20.38.01:336][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001208s)
+[2025.09.10-20.38.01:365][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.10-20.38.01:366][654]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.38.01:368][654]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2025.09.10-20.38.01:368][654]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.09.10-20.38.01:369][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.38.01:369][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.38.01:369][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.38.01:369][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.38.01:369][654]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.38.01:369][654]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.38.01:369][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.38.01:369][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.38.01:369][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.38.01:369][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.38.01:369][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.38.01:371][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.38.01:410][654]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.38.01:410][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.38.01:410][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.38.01:410][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.38.01:410][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.09.10-20.38.01:410][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.09.10-20.38.01:413][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.09.10-20.38.01:413][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.09.10-20.38.01:413][654]LogInit: FAudioDevice initialized with ID 16.
+[2025.09.10-20.38.01:413][654]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMap'.
+[2025.09.10-20.38.01:413][654]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.10-20.38.01:473][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.38.01:473][654]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.38.01:473][654]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.38.01
+[2025.09.10-20.38.01:474][654]LogWorld: Bringing up level for play took: 0.000724
+[2025.09.10-20.38.01:476][654]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.09.10-20.38.01:476][654]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.38.01:477][654]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.38.01:477][654]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.38.01:477][654]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.38.01:477][654]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.38.01:479][654]PIE: Server logged in
+[2025.09.10-20.38.01:480][654]PIE: Play in editor total start time 0.292 seconds.
+[2025.09.10-20.38.01:568][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.38.01:569][655]LogContentValidation: Enabled validators:
+[2025.09.10-20.38.01:569][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.38.01:569][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.38.01:569][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.38.01:569][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.38.01:569][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.38.01:569][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.38.01:569][655]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.38.01:637][655]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.38.05:208][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.38.05:208][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.38.05:208][921]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.38.05:215][921]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.38.05:216][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.38.05:223][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.38.05:228][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.38.05:257][921]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.10-20.38.05:257][921]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.09.10-20.38.05:259][921]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.09.10-20.38.05:267][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.09.10-20.38.05:365][922]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.09.10-20.38.06:079][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.38.06:089][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.38.06:090][  4]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.38.06:091][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2025.09.10-20.38.06:091][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001271s)
+[2025.09.10-20.38.06:120][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.10-20.38.06:120][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.38.06:123][  4]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2025.09.10-20.38.06:124][  4]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.09.10-20.38.06:124][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.38.06:124][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.38.06:124][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.38.06:124][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.38.06:124][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.38.06:124][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.38.06:124][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.38.06:124][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.38.06:124][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.38.06:124][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.38.06:124][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.38.06:126][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.38.06:163][  4]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.38.06:163][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.38.06:163][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.38.06:163][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.38.06:164][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.09.10-20.38.06:164][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.09.10-20.38.06:167][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.09.10-20.38.06:167][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.09.10-20.38.06:167][  4]LogInit: FAudioDevice initialized with ID 17.
+[2025.09.10-20.38.06:167][  4]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMap'.
+[2025.09.10-20.38.06:167][  4]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.09.10-20.38.06:220][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.38.06:220][  4]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.38.06:220][  4]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.38.06
+[2025.09.10-20.38.06:221][  4]LogWorld: Bringing up level for play took: 0.000671
+[2025.09.10-20.38.06:223][  4]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.09.10-20.38.06:223][  4]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.38.06:224][  4]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.38.06:224][  4]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.38.06:224][  4]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.38.06:224][  4]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.38.06:227][  4]PIE: Server logged in
+[2025.09.10-20.38.06:229][  4]PIE: Play in editor total start time 0.143 seconds.
+[2025.09.10-20.38.06:295][  5]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.38.35:048][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.38.35:048][388]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.38.35:048][388]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.38.35:051][388]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.38.35:051][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.38.35:060][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.38.35:065][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.38.35:090][388]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.09.10-20.38.35:090][388]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.09.10-20.38.35:092][388]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.09.10-20.38.35:097][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.10-20.38.35:193][389]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.09.10-20.38.45:817][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.38.45:825][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.38.45:825][591]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.38.45:826][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001273s)
+[2025.09.10-20.38.45:826][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001310s)
+[2025.09.10-20.38.45:855][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.10-20.38.45:857][591]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.38.45:858][591]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2025.09.10-20.38.45:859][591]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.09.10-20.38.45:859][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.38.45:859][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.38.45:859][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.38.45:859][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.38.45:859][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.38.45:859][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.38.45:859][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.38.45:859][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.38.45:859][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.38.45:859][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.38.45:859][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.38.45:861][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.38.45:900][591]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.38.45:900][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.38.45:900][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.38.45:900][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.38.45:900][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.09.10-20.38.45:900][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.09.10-20.38.45:903][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.09.10-20.38.45:903][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.09.10-20.38.45:903][591]LogInit: FAudioDevice initialized with ID 18.
+[2025.09.10-20.38.45:903][591]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMap'.
+[2025.09.10-20.38.45:903][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.10-20.38.45:907][591]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.38.45:907][591]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.38.45
+[2025.09.10-20.38.45:907][591]LogWorld: Bringing up level for play took: 0.000560
+[2025.09.10-20.38.45:910][591]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.09.10-20.38.45:911][591]PIE: Server logged in
+[2025.09.10-20.38.45:913][591]PIE: Play in editor total start time 0.088 seconds.
+[2025.09.10-20.38.45:958][592]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.39.21:215][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2103.236084
+[2025.09.10-20.39.21:281][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-20.39.21:281][776]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2103.293945, Update Interval: 300.688507
+[2025.09.10-20.40.09:372][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.40.09:372][518]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.40.09:372][518]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.40.09:373][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.40.09:381][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.40.09:386][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.40.09:414][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.40.09:415][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.10-20.40.09:415][518]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.09.10-20.40.09:416][518]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.09.10-20.40.09:423][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.10-20.40.09:479][523]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.09.10-20.42.02:001][757]LogEditorTransaction: Undo Promote To Variable
+[2025.09.10-20.43.25:950][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.10-20.43.25:969][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.43.26:007][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.43.26:007][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.43.26:027][482]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.43.26:028][482]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner5936982F4C3C4213963C64AF9561D73D.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.43.26:038][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.410 ms (total: 1.53 sec)
+[2025.09.10-20.43.26:107][482]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.43.26:107][482]LogContentValidation: Enabled validators:
+[2025.09.10-20.43.26:107][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.43.26:107][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.43.26:107][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.43.26:107][482]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.43.26:107][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.43.26:107][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.43.26:107][482]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.10-20.43.27:587][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.10-20.43.27:597][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.10-20.43.27:597][649]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.43.27:598][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001206s)
+[2025.09.10-20.43.27:598][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001239s)
+[2025.09.10-20.43.27:628][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.10-20.43.27:629][649]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.10-20.43.27:630][649]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2025.09.10-20.43.27:632][649]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.09.10-20.43.27:632][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.10-20.43.27:632][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.10-20.43.27:632][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.10-20.43.27:632][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.10-20.43.27:632][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.10-20.43.27:632][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.10-20.43.27:632][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.10-20.43.27:632][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.10-20.43.27:632][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.10-20.43.27:632][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.10-20.43.27:632][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.10-20.43.27:635][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.10-20.43.27:674][649]LogAudioMixer: Display: Using Audio Hardware Device Optix G24C (NVIDIA High Definition Audio)
+[2025.09.10-20.43.27:675][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.10-20.43.27:675][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.10-20.43.27:675][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.10-20.43.27:676][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.09.10-20.43.27:676][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.09.10-20.43.27:679][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.09.10-20.43.27:679][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.09.10-20.43.27:679][649]LogInit: FAudioDevice initialized with ID 19.
+[2025.09.10-20.43.27:679][649]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2025.09.10-20.43.27:679][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.10-20.43.27:740][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.43.27:740][649]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.10-20.43.27:741][649]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.10-16.43.27
+[2025.09.10-20.43.27:741][649]LogWorld: Bringing up level for play took: 0.000925
+[2025.09.10-20.43.27:744][649]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.09.10-20.43.27:745][649]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.10-20.43.27:745][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.43.27:745][649]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.43.27:745][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.10-20.43.27:745][649]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.10-20.43.27:748][649]PIE: Server logged in
+[2025.09.10-20.43.27:749][649]PIE: Play in editor total start time 0.156 seconds.
+[2025.09.10-20.43.27:825][650]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.10-20.43.27:928][650]LogPSOHitching: Encountered 200 PSO creation hitches so far (66 graphics, 134 compute). 0 of them were precached.
+[2025.09.10-20.43.34:009][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.10-20.43.34:009][258]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.10-20.43.34:010][258]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.10-20.43.34:016][258]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.10-20.43.34:017][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.43.34:025][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.10-20.43.34:030][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.10-20.43.34:058][258]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.10-20.43.34:058][258]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.09.10-20.43.34:060][258]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.09.10-20.43.34:066][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.10-20.43.34:150][259]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.09.10-20.44.20:235][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.10-20.44.20:239][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-20.44.20:291][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.10-20.44.20:291][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.10-20.44.20:312][694]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.10-20.44.20:313][694]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner7380FA594F459300252384ADFEA63A9B.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.10-20.44.20:324][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.926 ms (total: 1.62 sec)
+[2025.09.10-20.44.20:449][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-20.44.20:449][694]LogContentValidation: Enabled validators:
+[2025.09.10-20.44.20:449][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-20.44.20:449][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-20.44.20:449][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-20.44.20:449][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-20.44.20:449][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-20.44.20:449][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-20.44.20:449][694]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
