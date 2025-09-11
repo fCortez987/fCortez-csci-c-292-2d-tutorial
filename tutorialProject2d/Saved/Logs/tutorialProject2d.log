@@ -1379,3 +1379,954 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.11-20.23.33:904][350]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
 [2025.09.11-20.23.33:912][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
 [2025.09.11-20.23.34:000][351]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.11-20.25.51:219][736]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-20.25.51:229][736]LogPlayLevel: [PlayLevel] Compiling BP_EnemyPawn before play...
+[2025.09.11-20.25.51:261][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.25.51:300][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyPawn] ([2] browsable assets)...
+[2025.09.11-20.25.51:300][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyPawn]
+[2025.09.11-20.25.51:318][736]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyPawn
+[2025.09.11-20.25.51:319][736]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn48213C694F7B6D29DF7D99B74D3D2B27.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemyPawn.uasset'
+[2025.09.11-20.25.51:330][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.041 ms (total: 297.872 ms)
+[2025.09.11-20.25.51:366][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.11-20.25.51:369][736]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2025.09.11-20.25.51:369][736]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.25.51:370][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001283s)
+[2025.09.11-20.25.51:370][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001321s)
+[2025.09.11-20.25.51:401][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.09.11-20.25.51:402][736]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.25.51:404][736]LogPlayLevel: PIE: World Init took: (0.002056s)
+[2025.09.11-20.25.51:405][736]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.11-20.25.51:405][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-20.25.51:406][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-20.25.51:406][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-20.25.51:406][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-20.25.51:406][736]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-20.25.51:406][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-20.25.51:406][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-20.25.51:406][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-20.25.51:406][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-20.25.51:406][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-20.25.51:406][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-20.25.51:408][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-20.25.51:465][736]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.11-20.25.51:465][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-20.25.51:465][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-20.25.51:465][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-20.25.51:466][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.11-20.25.51:466][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.11-20.25.51:468][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.11-20.25.51:468][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.11-20.25.51:468][736]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.11-20.25.51:468][736]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2025.09.11-20.25.51:468][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.11-20.25.51:499][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.25.51:499][736]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.25.51:500][736]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.25.51
+[2025.09.11-20.25.51:500][736]LogWorld: Bringing up level for play took: 0.000852
+[2025.09.11-20.25.51:503][736]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.11-20.25.51:503][736]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.25.51:504][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.25.51:504][736]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.25.51:504][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.25.51:504][736]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.25.51:506][736]PIE: Server logged in
+[2025.09.11-20.25.51:506][736]PIE: Play in editor total start time 0.279 seconds.
+[2025.09.11-20.25.51:560][737]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.09.11-20.25.51:561][737]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.25.51:561][737]LogContentValidation: Enabled validators:
+[2025.09.11-20.25.51:561][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.25.51:562][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.25.51:562][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.25.51:562][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.25.51:562][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.25.51:562][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.25.51:562][737]AssetCheck: /Game/Blueprints/BP_EnemyPawn Validating asset
+[2025.09.11-20.25.51:611][737]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.25.55:286][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.25.55:286][101]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.25.55:286][101]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.11-20.25.55:294][101]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.25.55:294][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.25.55:295][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-20.25.55:300][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.25.55:331][101]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.11-20.25.55:331][101]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.11-20.25.55:333][101]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.11-20.25.55:340][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.11-20.25.55:406][102]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.09.11-20.25.56:590][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.11-20.26.02:082][893]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.11-20.26.07:990][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace
+[2025.09.11-20.26.07:990][494]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.11-20.26.16:619][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 361.246094
+[2025.09.11-20.26.16:676][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-20.26.16:676][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 361.294495, Update Interval: 352.880646
+[2025.09.11-20.26.56:319][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.11-20.26.56:344][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.26.56:386][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerPawnSpace] ([2] browsable assets)...
+[2025.09.11-20.26.56:386][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawnSpace]
+[2025.09.11-20.26.56:407][171]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerPawnSpace
+[2025.09.11-20.26.56:407][171]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerPawnSpace3825E31D46C0012BCC7296888B2A96B4.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerPawnSpace.uasset'
+[2025.09.11-20.26.56:416][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.825 ms (total: 370.698 ms)
+[2025.09.11-20.26.56:454][171]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.26.56:454][171]LogContentValidation: Enabled validators:
+[2025.09.11-20.26.56:454][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.26.56:454][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.26.56:454][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.26.56:454][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.26.56:454][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.26.56:454][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.26.56:454][171]AssetCheck: /Game/Blueprints/BP_PlayerPawnSpace Validating asset
+[2025.09.11-20.30.02:570][ 36]LogEditorTransaction: Undo Break Pin Link
+[2025.09.11-20.32.02:639][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.11-20.32.02:641][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.038
+[2025.09.11-20.32.02:642][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyPawn] ([2] browsable assets)...
+[2025.09.11-20.32.02:642][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyPawn]
+[2025.09.11-20.32.02:658][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_EnemyPawn_Auto1
+[2025.09.11-20.32.02:658][ 40]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Auto17E7251A44FB737F7DDAC04A0CC2E2DC0.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/Autosaves/Game/Blueprints/BP_EnemyPawn_Auto1.uasset'
+[2025.09.11-20.32.02:659][ 40]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.09.11-20.32.13:079][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 717.684265
+[2025.09.11-20.32.13:146][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-20.32.13:146][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 717.744141, Update Interval: 324.579010
+[2025.09.11-20.32.39:390][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.11-20.32.39:394][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.32.39:435][416]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyPawn] ([2] browsable assets)...
+[2025.09.11-20.32.39:435][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyPawn]
+[2025.09.11-20.32.39:455][416]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyPawn
+[2025.09.11-20.32.39:456][416]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawnEA3FEFB542F578C01C0A9AB948AE9920.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemyPawn.uasset'
+[2025.09.11-20.32.39:468][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.963 ms (total: 443.662 ms)
+[2025.09.11-20.32.39:511][416]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.32.39:511][416]LogContentValidation: Enabled validators:
+[2025.09.11-20.32.39:511][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.32.39:511][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.32.39:511][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.32.39:511][416]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.32.39:511][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.32.39:511][416]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.32.39:511][416]AssetCheck: /Game/Blueprints/BP_EnemyPawn Validating asset
+[2025.09.11-20.32.40:382][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-20.32.40:392][516]LogPlayLevel: [PlayLevel] Compiling BP_EnemyPawn before play...
+[2025.09.11-20.32.40:395][516]LogBlueprint: Error: [AssetLog] C:\Users\facortez\Documents\GitHub\fCortez-csci-c-292-2d-tutorial\tutorialProject2d\Content\Blueprints\BP_EnemyPawn.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Laser  to imply a specific type.
+[2025.09.11-20.32.40:395][516]LogBlueprint: Error: [AssetLog] C:\Users\facortez\Documents\GitHub\fCortez-csci-c-292-2d-tutorial\tutorialProject2d\Content\Blueprints\BP_EnemyPawn.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.09.11-20.32.40:398][516]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.11-20.32.40:451][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.11-20.32.40:452][516]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2025.09.11-20.32.40:452][516]BlueprintLog: Warning: Blueprint failed to compile:  BP_EnemyPawn
+[2025.09.11-20.32.44:141][516]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.09.11-20.32.45:524][662]LogSlate: Window 'Message Log' being destroyed
+[2025.09.11-20.32.45:532][662]LogSlate: Window 'Message Log' being destroyed
+[2025.09.11-20.32.46:357][758]LogBlueprint: Error: [AssetLog] C:\Users\facortez\Documents\GitHub\fCortez-csci-c-292-2d-tutorial\tutorialProject2d\Content\Blueprints\BP_EnemyPawn.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Laser  to imply a specific type.
+[2025.09.11-20.32.46:357][758]LogBlueprint: Error: [AssetLog] C:\Users\facortez\Documents\GitHub\fCortez-csci-c-292-2d-tutorial\tutorialProject2d\Content\Blueprints\BP_EnemyPawn.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.09.11-20.32.46:398][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.11-20.33.20:189][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.09.11-20.33.20:205][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.33.20:235][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyPawn] ([2] browsable assets)...
+[2025.09.11-20.33.20:236][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyPawn]
+[2025.09.11-20.33.20:255][640]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyPawn
+[2025.09.11-20.33.20:257][640]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn218F240443C2A1D6AD5198B290280B00.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemyPawn.uasset'
+[2025.09.11-20.33.20:267][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.867 ms (total: 505.529 ms)
+[2025.09.11-20.33.20:313][640]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.33.20:313][640]LogContentValidation: Enabled validators:
+[2025.09.11-20.33.20:313][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.33.20:313][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.33.20:313][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.33.20:313][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.33.20:313][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.33.20:313][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.33.20:313][640]AssetCheck: /Game/Blueprints/BP_EnemyPawn Validating asset
+[2025.09.11-20.33.21:400][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-20.33.21:408][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.11-20.33.21:408][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.33.21:410][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001403s)
+[2025.09.11-20.33.21:410][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001453s)
+[2025.09.11-20.33.21:445][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.09.11-20.33.21:446][759]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.33.21:448][759]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2025.09.11-20.33.21:449][759]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.11-20.33.21:449][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-20.33.21:449][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-20.33.21:449][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-20.33.21:449][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-20.33.21:449][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-20.33.21:449][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-20.33.21:449][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-20.33.21:449][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-20.33.21:449][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-20.33.21:449][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-20.33.21:449][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-20.33.21:450][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-20.33.21:505][759]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.11-20.33.21:506][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-20.33.21:506][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-20.33.21:506][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-20.33.21:506][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.11-20.33.21:506][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.11-20.33.21:509][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.11-20.33.21:509][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.11-20.33.21:509][759]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.11-20.33.21:509][759]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMap'.
+[2025.09.11-20.33.21:509][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.11-20.33.21:534][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.33.21:535][759]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.33.21:535][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.33.21
+[2025.09.11-20.33.21:536][759]LogWorld: Bringing up level for play took: 0.001027
+[2025.09.11-20.33.21:539][759]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.11-20.33.21:539][759]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.33.21:539][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.33.21:539][759]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.33.21:539][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.33.21:539][759]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.33.21:543][759]PIE: Server logged in
+[2025.09.11-20.33.21:545][759]PIE: Play in editor total start time 0.136 seconds.
+[2025.09.11-20.33.21:621][760]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.33.47:945][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.33.47:945][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.33.47:945][154]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.11-20.33.47:962][154]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.33.47:962][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.33.47:963][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-20.33.47:969][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.33.48:000][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.11-20.33.48:000][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.11-20.33.48:000][154]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.09.11-20.33.48:002][154]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.09.11-20.33.48:008][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.11-20.33.48:074][155]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.11-20.33.50:272][416]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-20.33.50:281][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.11-20.33.50:281][416]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.33.50:282][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001350s)
+[2025.09.11-20.33.50:282][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001388s)
+[2025.09.11-20.33.50:312][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.11-20.33.50:313][416]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.33.50:315][416]LogPlayLevel: PIE: World Init took: (0.001594s)
+[2025.09.11-20.33.50:315][416]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.11-20.33.50:316][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-20.33.50:316][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-20.33.50:316][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-20.33.50:316][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-20.33.50:316][416]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-20.33.50:316][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-20.33.50:316][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-20.33.50:316][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-20.33.50:316][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-20.33.50:316][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-20.33.50:316][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-20.33.50:318][416]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-20.33.50:370][416]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.11-20.33.50:371][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-20.33.50:371][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-20.33.50:371][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-20.33.50:371][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.11-20.33.50:371][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.11-20.33.50:374][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.11-20.33.50:374][416]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.11-20.33.50:374][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.11-20.33.50:374][416]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMap'.
+[2025.09.11-20.33.50:374][416]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.11-20.33.50:403][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.33.50:403][416]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.33.50:403][416]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.33.50
+[2025.09.11-20.33.50:404][416]LogWorld: Bringing up level for play took: 0.000823
+[2025.09.11-20.33.50:407][416]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.11-20.33.50:407][416]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.33.50:408][416]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.33.50:408][416]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.33.50:408][416]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.33.50:408][416]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.33.50:411][416]PIE: Server logged in
+[2025.09.11-20.33.50:412][416]PIE: Play in editor total start time 0.132 seconds.
+[2025.09.11-20.33.50:472][417]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.33.55:535][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.33.55:535][865]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.33.55:535][865]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.11-20.33.55:539][865]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.33.55:540][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.33.55:541][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-20.33.55:549][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.33.55:583][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.11-20.33.55:583][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.09.11-20.33.55:584][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.09.11-20.33.55:590][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.11-20.33.55:652][866]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.11-20.33.57:859][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.11-20.33.57:859][126]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.33.57:860][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001242s)
+[2025.09.11-20.33.57:860][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001277s)
+[2025.09.11-20.33.57:889][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.11-20.33.57:890][126]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.33.57:892][126]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2025.09.11-20.33.57:892][126]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.11-20.33.57:892][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-20.33.57:892][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-20.33.57:892][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-20.33.57:892][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-20.33.57:892][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-20.33.57:892][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-20.33.57:892][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-20.33.57:892][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-20.33.57:892][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-20.33.57:892][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-20.33.57:892][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-20.33.57:895][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-20.33.57:947][126]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.11-20.33.57:947][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-20.33.57:948][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-20.33.57:948][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-20.33.57:948][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.11-20.33.57:948][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.11-20.33.57:950][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.11-20.33.57:950][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.11-20.33.57:950][126]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.11-20.33.57:950][126]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMap'.
+[2025.09.11-20.33.57:950][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.11-20.33.57:954][126]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.33.57:954][126]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.33.57
+[2025.09.11-20.33.57:954][126]LogWorld: Bringing up level for play took: 0.000623
+[2025.09.11-20.33.57:956][126]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.11-20.33.57:957][126]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.33.57:960][126]PIE: Server logged in
+[2025.09.11-20.33.57:962][126]PIE: Play in editor total start time 0.103 seconds.
+[2025.09.11-20.33.57:989][126]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.57:989][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.57:990][126]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.57:990][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:015][127]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.58:015][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:015][127]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.58:015][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:028][128]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.58:029][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:029][128]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.58:029][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:037][129]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.58:038][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:038][129]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.58:038][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:047][130]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.58:047][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:047][130]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.58:047][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:056][131]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.58:056][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:056][131]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.58:056][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:065][132]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.58:065][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:065][132]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.58:065][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:075][133]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:0122
+[2025.09.11-20.33.58:075][133]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:075][133]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass
+	BP_PlayerPawnSpace_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_PlayerPawn_C_1
+	Function /Game/Blueprints/BP_PlayerPawnSpace.BP_PlayerPawnSpace_C:ExecuteUbergraph_BP_PlayerPawnSpace:015E
+[2025.09.11-20.33.58:075][133]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:084][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:084][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:093][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:093][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:103][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:103][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:113][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:113][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:121][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:121][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:129][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:129][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:138][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:138][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:146][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:146][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:155][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:155][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:164][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:164][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:172][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:172][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:181][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:181][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:190][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:191][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:199][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:199][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:208][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:208][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:217][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:217][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:227][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:227][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:235][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:235][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:245][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:245][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:254][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:254][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:262][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:262][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:271][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:271][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:280][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:280][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:288][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:288][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:297][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:297][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:305][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:305][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:314][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:314][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:322][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:322][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:331][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:331][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:340][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:340][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:348][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:348][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:358][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:358][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:365][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:365][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:374][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:374][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:382][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:382][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:391][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:391][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:399][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:399][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:408][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:408][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:416][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:416][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:425][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:425][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:433][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:433][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:441][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:441][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:450][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:450][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:458][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:458][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:467][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:467][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:475][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:475][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:485][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:485][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:493][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:493][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:501][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:501][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:510][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:510][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:519][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:519][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:527][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:527][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:536][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:536][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:544][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:544][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:552][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:552][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:561][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:561][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:570][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:570][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:578][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:578][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:587][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:587][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:596][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:596][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:605][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:605][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:614][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:615][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:626][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:626][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:639][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:640][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:649][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:649][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:662][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:662][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:671][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:672][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:682][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:682][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:692][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:692][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:701][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:701][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:710][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:710][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:719][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:719][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:727][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:727][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:736][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:736][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:744][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:744][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:752][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:752][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:761][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:761][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:769][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:769][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:778][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:778][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:786][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:786][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:795][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:795][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:803][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:803][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:812][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:812][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:821][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:821][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:830][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:830][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:840][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:840][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:851][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:851][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:862][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:862][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:872][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:872][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:882][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:882][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:891][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:891][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:901][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:901][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:910][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:910][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:919][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:919][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:927][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:927][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:936][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:936][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:944][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:944][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:953][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:953][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:961][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:961][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:971][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:971][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:980][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:980][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:990][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.58:990][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.59:001][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.59:001][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.59:012][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.59:012][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalViewingPlayerController_ReturnValue in not an UClass". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph BP Player Pawn Space Blueprint:  BP_PlayerPawnSpace
+[2025.09.11-20.33.59:013][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.33.59:013][237]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.33.59:014][237]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.33.59:014][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.33.59:015][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-20.33.59:020][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.33.59:049][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.33.59:049][237]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.11-20.33.59:049][237]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.09.11-20.33.59:051][237]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.09.11-20.33.59:056][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.11-20.33.59:192][238]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.11-20.34.00:661][370]LogSlate: Window 'Message Log' being destroyed
+[2025.09.11-20.34.00:671][370]LogSlate: Window 'Message Log' being destroyed
+[2025.09.11-20.34.01:688][490]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-20.34.01:697][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.11-20.34.01:697][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.34.01:698][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2025.09.11-20.34.01:698][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001350s)
+[2025.09.11-20.34.01:729][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.11-20.34.01:731][490]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.34.01:732][490]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2025.09.11-20.34.01:733][490]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.09.11-20.34.01:733][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-20.34.01:733][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-20.34.01:733][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-20.34.01:733][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-20.34.01:733][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-20.34.01:733][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-20.34.01:733][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-20.34.01:733][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-20.34.01:733][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-20.34.01:733][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-20.34.01:733][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-20.34.01:734][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-20.34.01:787][490]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.11-20.34.01:788][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-20.34.01:788][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-20.34.01:788][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-20.34.01:788][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.09.11-20.34.01:788][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.09.11-20.34.01:791][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.09.11-20.34.01:791][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.09.11-20.34.01:791][490]LogInit: FAudioDevice initialized with ID 8.
+[2025.09.11-20.34.01:791][490]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMap'.
+[2025.09.11-20.34.01:791][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.11-20.34.01:822][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.34.01:822][490]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.34.01:824][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.34.01
+[2025.09.11-20.34.01:825][490]LogWorld: Bringing up level for play took: 0.001498
+[2025.09.11-20.34.01:827][490]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.11-20.34.01:828][490]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.34.01:828][490]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.34.01:828][490]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.34.01:828][490]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.34.01:828][490]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.34.01:831][490]PIE: Server logged in
+[2025.09.11-20.34.01:833][490]PIE: Play in editor total start time 0.136 seconds.
+[2025.09.11-20.34.01:905][491]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.34.03:987][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.34.03:987][660]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.34.03:987][660]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.11-20.34.04:016][660]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.34.04:016][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.34.04:018][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-20.34.04:026][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.34.04:061][660]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.11-20.34.04:061][660]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.09.11-20.34.04:063][660]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.09.11-20.34.04:070][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.11-20.34.04:135][661]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.11-20.34.11:334][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.11-20.34.29:794][383]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.09.11-20.34.29:805][383]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.09.11-20.34.29:821][384]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.09.11-20.34.35:418][ 21]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Restart
+[2025.09.11-20.34.35:420][ 21]LogContentBrowser: End creating deferred item NewInputAction
+[2025.09.11-20.34.37:260][208]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/IA_Restart.IA_Restart
+[2025.09.11-20.34.52:798][ 20]Cmd: TRANSACTION UNDO
+[2025.09.11-20.34.52:801][ 20]LogEditorTransaction: Undo Edit Trigger when Paused
+[2025.09.11-20.34.52:801][ 20]LogCore: Warning: 'FField::GetFName' was called with a null 'this' pointer - this is no longer supported.
+[2025.09.11-20.34.52:801][ 20]LogCore: Warning: 'FField::GetFName' was called with a null 'this' pointer - this is no longer supported.
+[2025.09.11-20.34.52:801][ 20]LogCore: Warning: 'FField::GetFName' was called with a null 'this' pointer - this is no longer supported.
+[2025.09.11-20.34.52:801][ 20]LogCore: Warning: 'FField::GetFName' was called with a null 'this' pointer - this is no longer supported.
+[2025.09.11-20.35.17:039][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.11-20.35.17:043][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.35.17:079][857]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IA_Restart] ([1] browsable assets)...
+[2025.09.11-20.35.17:079][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IA_Restart]
+[2025.09.11-20.35.17:089][857]LogSavePackage: Moving output files for package: /Game/Blueprints/IA_Restart
+[2025.09.11-20.35.17:089][857]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/IA_Restart710CA61E48235B8FAAE33A8A624CFBAA.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/IA_Restart.uasset'
+[2025.09.11-20.35.17:102][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.762 ms (total: 564.292 ms)
+[2025.09.11-20.35.17:143][857]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.35.17:143][857]LogContentValidation: Enabled validators:
+[2025.09.11-20.35.17:143][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.35.17:143][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.35.17:143][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.35.17:143][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.35.17:143][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.35.17:143][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.35.17:143][857]AssetCheck: /Game/Blueprints/IA_Restart Validating asset
+[2025.09.11-20.35.17:159][857]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.11-20.35.30:631][415]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/IMC_DefaultLayout.IMC_DefaultLayout
+[2025.09.11-20.35.56:830][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.11-20.35.56:833][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.35.56:871][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IMC_DefaultLayout] ([1] browsable assets)...
+[2025.09.11-20.35.56:871][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IMC_DefaultLayout]
+[2025.09.11-20.35.56:881][470]LogSavePackage: Moving output files for package: /Game/Blueprints/IMC_DefaultLayout
+[2025.09.11-20.35.56:881][470]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/IMC_DefaultLayout8A2236F04AF194E5E25E86AD4F5034A0.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/IMC_DefaultLayout.uasset'
+[2025.09.11-20.35.56:893][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.378 ms (total: 623.671 ms)
+[2025.09.11-20.35.56:926][470]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.35.56:926][470]LogContentValidation: Enabled validators:
+[2025.09.11-20.35.56:926][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.35.56:926][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.35.56:926][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.35.56:926][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.35.56:926][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.35.56:926][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.35.56:926][470]AssetCheck: /Game/Blueprints/IMC_DefaultLayout Validating asset
+[2025.09.11-20.36.49:064][563]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerControllerSpace.BP_PlayerControllerSpace
+[2025.09.11-20.36.49:064][563]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.11-20.37.43:293][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1047.880493
+[2025.09.11-20.37.43:360][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-20.37.43:360][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1047.939087, Update Interval: 312.013916
+[2025.09.11-20.38.06:716][358]LogSlate: Took 0.006925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.11-20.38.24:446][795]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.09.11-20.38.45:179][658]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.11-20.38.45:190][658]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.11-20.38.52:744][557]LogEditorTransaction: Undo Change Parameter Type
+[2025.09.11-20.39.20:533][639]LogEditorTransaction: Undo Promote To Variable
+[2025.09.11-20.39.20:741][645]LogEditorTransaction: Undo Add Node
+[2025.09.11-20.39.20:935][650]LogEditorTransaction: Undo Delete current selection
+[2025.09.11-20.39.21:249][676]LogEditorTransaction: Undo Add Node
+[2025.09.11-20.39.21:508][701]LogEditorTransaction: Undo Delete current selection
+[2025.09.11-20.39.21:789][728]LogEditorTransaction: Undo Rename Variable
+[2025.09.11-20.39.21:994][746]LogEditorTransaction: Undo Promote To Variable
+[2025.09.11-20.41.32:093][257]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.09.11-20.41.34:292][506]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.11-20.41.34:298][506]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.11-20.41.35:661][657]LogEditorTransaction: Undo Change Variable Type
+[2025.09.11-20.41.44:511][435]LogSlate: Window 'Delete Variable' being destroyed
+[2025.09.11-20.43.09:324][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1373.898315
+[2025.09.11-20.43.09:391][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-20.43.09:391][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1373.956665, Update Interval: 306.952728
+[2025.09.11-20.43.51:702][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.11-20.43.51:716][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.43.51:754][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerControllerSpace] ([2] browsable assets)...
+[2025.09.11-20.43.51:754][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerControllerSpace]
+[2025.09.11-20.43.51:771][613]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerControllerSpace
+[2025.09.11-20.43.51:771][613]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerControllerSpaceBB3169E5490C73F7CB61CCBFBE3F8BEB.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerControllerSpace.uasset'
+[2025.09.11-20.43.51:783][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.813 ms (total: 690.484 ms)
+[2025.09.11-20.43.51:814][613]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.43.51:816][613]LogContentValidation: Enabled validators:
+[2025.09.11-20.43.51:816][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.43.51:816][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.43.51:816][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.43.51:816][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.43.51:816][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.43.51:816][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.43.51:816][613]AssetCheck: /Game/Blueprints/BP_PlayerControllerSpace Validating asset
+[2025.09.11-20.44.20:808][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.09.11-20.44.20:819][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.11-20.44.20:860][ 39]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerControllerSpace] ([2] browsable assets)...
+[2025.09.11-20.44.20:860][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerControllerSpace]
+[2025.09.11-20.44.20:878][ 39]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerControllerSpace
+[2025.09.11-20.44.20:879][ 39]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_PlayerControllerSpace1993B2C64458A4EEA8777AB8E9E7FAE1.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_PlayerControllerSpace.uasset'
+[2025.09.11-20.44.20:890][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.607 ms (total: 761.092 ms)
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: Enabled validators:
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.11-20.44.20:947][ 39]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.11-20.44.20:948][ 39]AssetCheck: /Game/Blueprints/BP_PlayerControllerSpace Validating asset
+[2025.09.11-20.44.22:118][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-20.44.22:126][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.11-20.44.22:126][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.22:127][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001317s)
+[2025.09.11-20.44.22:128][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001358s)
+[2025.09.11-20.44.22:164][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.11-20.44.22:166][172]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.44.22:168][172]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2025.09.11-20.44.22:169][172]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.11-20.44.22:169][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-20.44.22:169][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-20.44.22:169][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-20.44.22:169][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-20.44.22:169][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-20.44.22:169][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-20.44.22:169][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-20.44.22:169][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-20.44.22:169][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-20.44.22:169][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-20.44.22:169][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-20.44.22:172][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-20.44.22:230][172]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.11-20.44.22:230][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-20.44.22:230][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-20.44.22:230][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-20.44.22:230][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.11-20.44.22:230][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.11-20.44.22:233][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.11-20.44.22:233][172]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.11-20.44.22:233][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.11-20.44.22:233][172]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMap'.
+[2025.09.11-20.44.22:233][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.11-20.44.22:262][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.44.22:262][172]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.44.22:263][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.44.22
+[2025.09.11-20.44.22:263][172]LogWorld: Bringing up level for play took: 0.000985
+[2025.09.11-20.44.22:266][172]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.09.11-20.44.22:266][172]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.44.22:266][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.44.22:266][172]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.44.22:266][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.44.22:266][172]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.44.22:269][172]PIE: Server logged in
+[2025.09.11-20.44.22:270][172]PIE: Play in editor total start time 0.145 seconds.
+[2025.09.11-20.44.22:341][173]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.44.31:130][ 69]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMap"
+[2025.09.11-20.44.31:130][ 69]LogNet: Browse: /Game/Maps/MainMap
+[2025.09.11-20.44.31:130][ 69]LogLoad: LoadMap: /Game/Maps/MainMap
+[2025.09.11-20.44.31:130][ 69]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.31:131][ 69]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.44.31:131][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.44.31:163][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.11-20.44.31:166][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.11-20.44.31:169][ 69]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.31:170][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2025.09.11-20.44.31:170][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001298s)
+[2025.09.11-20.44.31:170][ 69]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMap'.
+[2025.09.11-20.44.31:170][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.44.31:172][ 69]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2025.09.11-20.44.31:172][ 69]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.44.31:172][ 69]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.44.31
+[2025.09.11-20.44.31:173][ 69]LogWorld: Bringing up level for play took: 0.000552
+[2025.09.11-20.44.31:173][ 69]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.44.31:175][ 69]LogLoad: Took 0.044054 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMap)
+[2025.09.11-20.44.31:175][ 69]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.31:179][ 69]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.44.33:112][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.44.33:112][268]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.33:112][268]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.11-20.44.33:120][268]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.44.33:120][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.44.33:121][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-20.44.33:127][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.44.33:166][268]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.11-20.44.33:167][268]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.09.11-20.44.33:170][268]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.09.11-20.44.33:181][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2025.09.11-20.44.33:255][269]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.09.11-20.44.33:921][349]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.11-20.44.33:929][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.11-20.44.33:930][349]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.33:930][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001279s)
+[2025.09.11-20.44.33:930][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001317s)
+[2025.09.11-20.44.33:963][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.11-20.44.33:964][349]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.44.33:966][349]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2025.09.11-20.44.33:967][349]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.09.11-20.44.33:967][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.11-20.44.33:967][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.11-20.44.33:967][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.11-20.44.33:967][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.11-20.44.33:967][349]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.11-20.44.33:967][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.11-20.44.33:967][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.11-20.44.33:967][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.11-20.44.33:967][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.11-20.44.33:967][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.11-20.44.33:967][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.11-20.44.33:969][349]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.11-20.44.34:023][349]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.11-20.44.34:023][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.11-20.44.34:023][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.11-20.44.34:023][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.11-20.44.34:023][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.09.11-20.44.34:023][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.09.11-20.44.34:026][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.09.11-20.44.34:026][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.09.11-20.44.34:026][349]LogInit: FAudioDevice initialized with ID 10.
+[2025.09.11-20.44.34:026][349]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMap'.
+[2025.09.11-20.44.34:026][349]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.11-20.44.34:052][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.44.34:052][349]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.44.34:053][349]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.44.34
+[2025.09.11-20.44.34:053][349]LogWorld: Bringing up level for play took: 0.000928
+[2025.09.11-20.44.34:056][349]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.09.11-20.44.34:056][349]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.44.34:057][349]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.44.34:057][349]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.44.34:057][349]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.09.11-20.44.34:057][349]LogScript: Warning: Script Msg called by: BP_EnemySpawner_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_EnemySpawner_C_1
+[2025.09.11-20.44.34:060][349]PIE: Server logged in
+[2025.09.11-20.44.34:061][349]PIE: Play in editor total start time 0.132 seconds.
+[2025.09.11-20.44.34:102][350]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.44.37:562][715]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMap"
+[2025.09.11-20.44.37:562][715]LogNet: Browse: /Game/Maps/MainMap
+[2025.09.11-20.44.37:562][715]LogLoad: LoadMap: /Game/Maps/MainMap
+[2025.09.11-20.44.37:562][715]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.37:563][715]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.44.37:563][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.44.37:623][715]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.11-20.44.37:627][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2025.09.11-20.44.37:630][715]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.37:632][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002105s)
+[2025.09.11-20.44.37:632][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.002161s)
+[2025.09.11-20.44.37:632][715]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMap'.
+[2025.09.11-20.44.37:632][715]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.44.37:634][715]LogPlayLevel: PIE: World Init took: (0.002057s)
+[2025.09.11-20.44.37:634][715]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.44.37:634][715]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.44.37
+[2025.09.11-20.44.37:636][715]LogWorld: Bringing up level for play took: 0.000717
+[2025.09.11-20.44.37:636][715]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.44.37:638][715]LogLoad: Took 0.075586 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMap)
+[2025.09.11-20.44.37:638][715]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.37:643][715]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.44.39:951][959]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MainMap"
+[2025.09.11-20.44.39:951][959]LogNet: Browse: /Game/Maps/MainMap
+[2025.09.11-20.44.39:951][959]LogLoad: LoadMap: /Game/Maps/MainMap
+[2025.09.11-20.44.39:951][959]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.39:952][959]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.44.39:952][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.44.40:016][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.11-20.44.40:020][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.09.11-20.44.40:022][959]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.40:023][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001586s)
+[2025.09.11-20.44.40:023][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001676s)
+[2025.09.11-20.44.40:023][959]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMap'.
+[2025.09.11-20.44.40:023][959]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.11-20.44.40:026][959]LogPlayLevel: PIE: World Init took: (0.002230s)
+[2025.09.11-20.44.40:026][959]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.11-20.44.40:026][959]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.11-16.44.40
+[2025.09.11-20.44.40:026][959]LogWorld: Bringing up level for play took: 0.000582
+[2025.09.11-20.44.40:027][959]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.11-20.44.40:028][959]LogLoad: Took 0.077053 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMap)
+[2025.09.11-20.44.40:028][959]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.40:035][959]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.11-20.44.40:983][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.11-20.44.40:983][ 60]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.11-20.44.40:984][ 60]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.11-20.44.40:990][ 60]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.11-20.44.40:990][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.44.40:992][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.11-20.44.40:999][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.11-20.44.41:032][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.11-20.44.41:032][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.09.11-20.44.41:034][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.09.11-20.44.41:041][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.09.11-20.44.41:110][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.09.11-20.44.43:333][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
