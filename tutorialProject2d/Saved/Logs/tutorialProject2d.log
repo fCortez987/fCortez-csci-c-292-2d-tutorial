@@ -1697,3 +1697,317 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.16-21.03.26:698][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.16-21.03.26:699][474]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
 [2025.09.16-21.03.27:657][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.09.16-21.03.34:271][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.09.16-21.03.48:530][268]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.16-21.03.48:541][268]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.16-21.03.48:568][269]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.16-21.03.51:316][511]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2025.09.16-21.03.51:317][511]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.16-21.03.56:832][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.03.56:832][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.16-21.03.56:832][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.16-21.03.56:856][871]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.16-21.03.56:856][871]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawnerAE22F40A4137FEE0A0FDB19618BF1E5A.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.16-21.03.56:859][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn] ([2] browsable assets)...
+[2025.09.16-21.03.56:859][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn]
+[2025.09.16-21.03.56:876][871]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn
+[2025.09.16-21.03.56:876][871]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn44154AA547F3A1370674B7A51C8EE949.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn.uasset'
+[2025.09.16-21.03.56:884][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.231 ms (total: 350.822 ms)
+[2025.09.16-21.03.56:968][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.16-21.03.57:012][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.09.16-21.03.57:049][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.16-21.03.57:079][871]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-21.03.57:079][871]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.16-21.03.57:079][871]LogContentValidation: Enabled validators:
+[2025.09.16-21.03.57:079][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.03.57:079][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.03.57:079][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.03.57:079][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.03.57:079][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.03.57:079][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.03.57:079][871]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.16-21.03.57:079][871]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn Validating asset
+[2025.09.16-21.03.57:102][871]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.16-21.04.00:319][ 95]LogContentBrowser: Deferred new asset file creation: BP_EnemyPawn_Child
+[2025.09.16-21.04.00:329][ 95]LogContentBrowser: Creating deferred item: BP_EnemyPawn_Child
+[2025.09.16-21.04.00:361][ 96]LogContentBrowser: Renaming the item being created (Deferred Item: BP_EnemyPawn_Child).
+[2025.09.16-21.04.16:561][643]LogContentBrowser: Attempting asset rename: BP_EnemyPawn_Child -> BP_EnemyPawn_Big
+[2025.09.16-21.04.16:568][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.04.16:632][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big] ([2] browsable assets)...
+[2025.09.16-21.04.16:632][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big]
+[2025.09.16-21.04.16:643][643]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn_Big
+[2025.09.16-21.04.16:643][643]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Big0EE03F5B4CB223785F2EE5902EA69312.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset'
+[2025.09.16-21.04.16:659][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.041 ms (total: 441.864 ms)
+[2025.09.16-21.04.16:661][643]LogContentBrowser: End creating deferred item BP_EnemyPawn_Child
+[2025.09.16-21.04.16:714][643]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.04.16:714][643]LogContentValidation: Enabled validators:
+[2025.09.16-21.04.16:714][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.04.16:714][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.04.16:714][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.04.16:714][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.04.16:714][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.04.16:714][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.04.16:714][643]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Big Validating asset
+[2025.09.16-21.04.16:756][643]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.16-21.04.45:758][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.16-21.04.45:924][424]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.09.16-21.04.45:937][424]LogSlate: Took 0.011603 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.09.16-21.04.47:729][424]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.16-21.04.47:778][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.16-21.04.47:811][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.16-21.04.47:850][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.16-21.04.49:085][516]LogContentBrowser: Deferred new asset file creation: BP_EnemyPawn1
+[2025.09.16-21.04.49:094][516]LogContentBrowser: Creating deferred item: BP_EnemyPawn1
+[2025.09.16-21.04.49:142][517]LogContentBrowser: Renaming the item being created (Deferred Item: BP_EnemyPawn1).
+[2025.09.16-21.04.54:065][987]LogContentBrowser: Attempting asset rename: BP_EnemyPawn1 -> BP_EnemyPawn_Big
+[2025.09.16-21.04.54:113][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.09.16-21.04.54:125][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.04.54:166][987]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big] ([2] browsable assets)...
+[2025.09.16-21.04.54:166][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big]
+[2025.09.16-21.04.54:181][987]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn_Big
+[2025.09.16-21.04.54:181][987]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Big08D0578F49AA43204FC411BF76190EE5.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset'
+[2025.09.16-21.04.54:201][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.857 ms (total: 516.721 ms)
+[2025.09.16-21.04.54:203][987]LogContentBrowser: End creating deferred item BP_EnemyPawn1
+[2025.09.16-21.04.54:264][987]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.04.54:264][987]LogContentValidation: Enabled validators:
+[2025.09.16-21.04.54:264][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.04.54:264][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.04.54:264][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.04.54:265][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.04.54:265][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.04.54:265][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.04.54:265][987]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Big Validating asset
+[2025.09.16-21.04.57:313][268]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_EnemyPawn_Big.BP_EnemyPawn_Big
+[2025.09.16-21.04.57:313][268]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.16-21.05.38:444][815]LogEditorTransaction: Undo Move Node
+[2025.09.16-21.05.42:818][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 645.060059
+[2025.09.16-21.05.42:895][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-21.05.42:895][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 645.126709, Update Interval: 308.791168
+[2025.09.16-21.07.05:121][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.16-21.07.05:124][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.07.05:179][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big] ([2] browsable assets)...
+[2025.09.16-21.07.05:179][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big]
+[2025.09.16-21.07.05:199][535]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn_Big
+[2025.09.16-21.07.05:200][535]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Big0097F71B4F33844F1C16328E3E7CE2D2.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset'
+[2025.09.16-21.07.05:211][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.922 ms (total: 602.643 ms)
+[2025.09.16-21.07.05:246][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.07.05:246][535]LogContentValidation: Enabled validators:
+[2025.09.16-21.07.05:246][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.07.05:246][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.07.05:246][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.07.05:246][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.07.05:246][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.07.05:246][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.07.05:246][535]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Big Validating asset
+[2025.09.16-21.07.07:495][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.16-21.08.03:800][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.08.03:861][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big] ([2] browsable assets)...
+[2025.09.16-21.08.03:861][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big]
+[2025.09.16-21.08.03:885][314]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn_Big
+[2025.09.16-21.08.03:886][314]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Big8FE53DCB4080BE8030AE13AEC45E4070.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset'
+[2025.09.16-21.08.03:898][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.838 ms (total: 700.481 ms)
+[2025.09.16-21.08.03:962][314]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.08.03:962][314]LogContentValidation: Enabled validators:
+[2025.09.16-21.08.03:962][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.08.03:962][314]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.08.03:962][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.08.03:962][314]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.08.03:962][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.08.03:962][314]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.08.03:962][314]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Big Validating asset
+[2025.09.16-21.09.37:948][806]LogEditorTransaction: Undo Delete current selection
+[2025.09.16-21.10.34:000][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.16-21.10.34:016][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.10.34:077][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big] ([2] browsable assets)...
+[2025.09.16-21.10.34:077][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big]
+[2025.09.16-21.10.34:098][294]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn_Big
+[2025.09.16-21.10.34:099][294]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Big1373AF3C4439B5ABC6C4D4A764D6F783.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset'
+[2025.09.16-21.10.34:108][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.235 ms (total: 792.717 ms)
+[2025.09.16-21.10.34:158][294]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.10.34:158][294]LogContentValidation: Enabled validators:
+[2025.09.16-21.10.34:158][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.10.34:158][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.10.34:158][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.10.34:158][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.10.34:158][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.10.34:158][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.10.34:158][294]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Big Validating asset
+[2025.09.16-21.10.45:451][628]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-21.10.49:171][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.10.49:209][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big] ([2] browsable assets)...
+[2025.09.16-21.10.49:209][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big]
+[2025.09.16-21.10.49:229][  7]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn_Big
+[2025.09.16-21.10.49:230][  7]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Big1CD25A6F4A6DCC5B88533A89902E3EC7.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset'
+[2025.09.16-21.10.49:240][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.645 ms (total: 861.362 ms)
+[2025.09.16-21.10.49:273][  7]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.10.49:273][  7]LogContentValidation: Enabled validators:
+[2025.09.16-21.10.49:273][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.10.49:273][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.10.49:273][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.10.49:273][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.10.49:273][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.10.49:273][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.10.49:273][  7]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Big Validating asset
+[2025.09.16-21.10.58:369][978]LogStreaming: Display: FlushAsyncLoading(528): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-21.10.59:482][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 961.718994
+[2025.09.16-21.10.59:560][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-21.10.59:560][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 961.787903, Update Interval: 330.993378
+[2025.09.16-21.11.07:599][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.16-21.11.07:612][899]LogPlayLevel: [PlayLevel] Compiling BP_EnemySpawner before play...
+[2025.09.16-21.11.07:683][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.16-21.11.07:685][899]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (1 blueprints)
+[2025.09.16-21.11.07:686][899]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.16-21.11.07:687][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2025.09.16-21.11.07:687][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001346s)
+[2025.09.16-21.11.07:712][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.16-21.11.07:712][899]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.16-21.11.07:715][899]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2025.09.16-21.11.07:716][899]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.16-21.11.07:716][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-21.11.07:716][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-21.11.07:716][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-21.11.07:716][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-21.11.07:716][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-21.11.07:716][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-21.11.07:716][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-21.11.07:716][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-21.11.07:716][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-21.11.07:716][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-21.11.07:716][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-21.11.07:719][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-21.11.07:778][899]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.16-21.11.07:778][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-21.11.07:778][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-21.11.07:778][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-21.11.07:779][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.16-21.11.07:779][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.16-21.11.07:781][899]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.16-21.11.07:781][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.16-21.11.07:781][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.16-21.11.07:781][899]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMap'.
+[2025.09.16-21.11.07:781][899]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.16-21.11.07:823][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-21.11.07:824][899]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.16-21.11.07:825][899]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.16-17.11.07
+[2025.09.16-21.11.07:825][899]LogWorld: Bringing up level for play took: 0.000885
+[2025.09.16-21.11.07:827][899]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.09.16-21.11.07:828][899]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.16-21.11.07:832][899]PIE: Server logged in
+[2025.09.16-21.11.07:833][899]PIE: Play in editor total start time 0.226 seconds.
+[2025.09.16-21.11.07:864][900]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1914"
+[2025.09.16-21.11.07:864][900]LogCsvProfiler: Display: Metadata set : systemresolution.resy="992"
+[2025.09.16-21.11.07:867][900]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.16-21.11.07:993][901]LogPSOHitching: Encountered 200 PSO creation hitches so far (63 graphics, 137 compute). 0 of them were precached.
+[2025.09.16-21.11.22:307][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-21.11.22:307][ 93]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.16-21.11.22:308][ 93]LogSlate: Window 'tutorialProject2d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.16-21.11.22:316][ 93]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-21.11.22:316][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-21.11.22:317][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.16-21.11.22:323][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-21.11.22:357][ 93]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.16-21.11.22:357][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.09.16-21.11.22:359][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.09.16-21.11.22:368][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.16-21.11.22:437][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.09.16-21.11.24:925][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.11.24:975][352]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big] ([2] browsable assets)...
+[2025.09.16-21.11.24:975][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyPawn_Big]
+[2025.09.16-21.11.24:995][352]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemies/BP_EnemyPawn_Big
+[2025.09.16-21.11.24:996][352]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemyPawn_Big98BA0A8F418384FB27DDC7B5005C7D71.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset'
+[2025.09.16-21.11.25:007][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.645 ms (total: 943.008 ms)
+[2025.09.16-21.11.25:076][352]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.11.25:076][352]LogContentValidation: Enabled validators:
+[2025.09.16-21.11.25:076][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.11.25:076][352]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.11.25:076][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.11.25:076][352]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.11.25:076][352]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.11.25:076][352]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.11.25:076][352]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Big Validating asset
+[2025.09.16-21.11.27:435][597]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:452][598]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:466][599]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:481][600]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:493][601]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:510][602]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:524][603]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:538][604]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:553][605]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:565][606]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:577][607]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:591][608]LogRenderer: Using fallback RTPSO
+[2025.09.16-21.11.27:598][608]LogD3D12RHI: Creating RTPSO with 12 shaders (0 cached, 1 new) took 162.44 ms. Compile time 159.00 ms, link time 3.41 ms.
+[2025.09.16-21.11.40:139][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-21.11.40:175][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2025.09.16-21.11.40:175][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemySpawner]
+[2025.09.16-21.11.40:201][902]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemySpawner
+[2025.09.16-21.11.40:201][902]LogSavePackage: Moving '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Saved/BP_EnemySpawner899FCC4944930256E579989F31205CD1.tmp' to '../../../../../../Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset'
+[2025.09.16-21.11.40:213][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.198 ms (total: 1.01 sec)
+[2025.09.16-21.11.40:279][902]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-21.11.40:279][902]LogContentValidation: Enabled validators:
+[2025.09.16-21.11.40:279][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-21.11.40:279][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-21.11.40:279][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-21.11.40:279][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-21.11.40:279][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-21.11.40:279][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-21.11.40:279][902]AssetCheck: /Game/Blueprints/BP_EnemySpawner Validating asset
+[2025.09.16-21.11.41:129][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.16-21.11.43:047][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.16-21.11.44:650][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.16-21.11.44:663][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.16-21.11.44:664][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.16-21.11.44:666][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001459s)
+[2025.09.16-21.11.44:666][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001501s)
+[2025.09.16-21.11.44:701][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.16-21.11.44:703][345]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.16-21.11.44:704][345]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2025.09.16-21.11.44:705][345]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.16-21.11.44:705][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-21.11.44:705][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-21.11.44:705][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-21.11.44:705][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-21.11.44:705][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-21.11.44:705][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-21.11.44:705][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-21.11.44:705][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-21.11.44:705][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-21.11.44:705][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-21.11.44:705][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-21.11.44:707][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-21.11.44:761][345]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.16-21.11.44:762][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-21.11.44:762][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-21.11.44:762][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-21.11.44:762][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.16-21.11.44:762][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.16-21.11.44:764][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.16-21.11.44:764][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.16-21.11.44:764][345]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.16-21.11.44:764][345]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMap'.
+[2025.09.16-21.11.44:764][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.16-21.11.44:768][345]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.16-21.11.44:769][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.16-17.11.44
+[2025.09.16-21.11.44:769][345]LogWorld: Bringing up level for play took: 0.000593
+[2025.09.16-21.11.44:771][345]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.16-21.11.44:773][345]PIE: Server logged in
+[2025.09.16-21.11.44:776][345]PIE: Play in editor total start time 0.115 seconds.
+[2025.09.16-21.11.44:823][346]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.16-21.12.25:277][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-21.12.25:277][582]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.16-21.12.25:277][582]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-21.12.25:277][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-21.12.25:279][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.16-21.12.25:284][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-21.12.25:317][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-21.12.25:318][582]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.16-21.12.25:318][582]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.09.16-21.12.25:320][582]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.09.16-21.12.25:345][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.09.16-21.12.25:434][583]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.16-21.12.43:780][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
