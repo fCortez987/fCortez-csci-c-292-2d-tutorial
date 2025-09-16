@@ -13,13 +13,15 @@
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_Laser.uasset",
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/FireLaser.uasset",
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/IMC_DefaultLayout.uasset",
-				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemyPawn.uasset",
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemySpawner.uasset",
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_GameStateSpace.uasset",
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/WBP_MainUI.uasset",
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/IA_Restart.uasset",
 				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn.uasset",
-				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset"
+				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/Enemies/BP_EnemyPawn_Big.uasset",
+				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/enemyRed4.uasset",
+				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Textures/enemyRed4_Sprite.uasset",
+				"C:/Users/facortez/Documents/GitHub/fCortez-csci-c-292-2d-tutorial/tutorialProject2d/Content/Blueprints/BP_EnemyPawn.uasset"
 			]
 		}
 	]
