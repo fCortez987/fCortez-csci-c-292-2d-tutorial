@@ -4274,3 +4274,93 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.17-21.21.52:326][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.17-21.21.52:326][743]AssetCheck: /Game/Blueprints/Enemies/BP_EnemyPawn_Explosive Validating asset
 [2025.09.17-21.21.54:083][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.17-21.22.52:621][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.17-21.22.54:464][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.17-21.22.54:473][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.17-21.22.54:473][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2025.09.17-21.22.54:474][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001214s)
+[2025.09.17-21.22.54:474][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001250s)
+[2025.09.17-21.22.54:500][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.17-21.22.54:502][756]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.09.17-21.22.54:503][756]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2025.09.17-21.22.54:503][756]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.09.17-21.22.54:503][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.17-21.22.54:503][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.17-21.22.54:503][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.17-21.22.54:503][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.17-21.22.54:503][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.17-21.22.54:503][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.17-21.22.54:503][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.17-21.22.54:503][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.17-21.22.54:503][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.17-21.22.54:503][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.17-21.22.54:503][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.17-21.22.54:505][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.17-21.22.54:566][756]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.09.17-21.22.54:567][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.17-21.22.54:567][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.17-21.22.54:567][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.17-21.22.54:567][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.09.17-21.22.54:567][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.09.17-21.22.54:569][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.09.17-21.22.54:570][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.09.17-21.22.54:570][756]LogInit: FAudioDevice initialized with ID 27.
+[2025.09.17-21.22.54:570][756]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainMap'.
+[2025.09.17-21.22.54:570][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.09.17-21.22.54:574][756]LogLoad: Game class is 'GP_GameModeSpace_C'
+[2025.09.17-21.22.54:575][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2025.09.17-17.22.54
+[2025.09.17-21.22.54:575][756]LogWorld: Bringing up level for play took: 0.000689
+[2025.09.17-21.22.54:577][756]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.09.17-21.22.54:578][756]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.22.54:578][756]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 1
+[2025.09.17-21.22.54:579][756]PIE: Server logged in
+[2025.09.17-21.22.54:581][756]PIE: Play in editor total start time 0.109 seconds.
+[2025.09.17-21.22.54:628][757]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.17-21.22.56:465][964]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.22.56:465][964]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 1
+[2025.09.17-21.22.58:467][199]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.22.58:467][199]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 0
+[2025.09.17-21.23.00:473][434]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.00:473][434]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 0
+[2025.09.17-21.23.02:472][666]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.02:472][666]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 1
+[2025.09.17-21.23.04:479][903]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.04:479][903]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 2
+[2025.09.17-21.23.06:484][139]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.06:484][139]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 0
+[2025.09.17-21.23.08:493][375]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.08:493][375]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 1
+[2025.09.17-21.23.10:495][602]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.10:495][602]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 0
+[2025.09.17-21.23.12:497][834]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.12:497][834]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 2
+[2025.09.17-21.23.14:207][ 31]LogPSOHitching: Encountered 200 PSO creation hitches so far (55 graphics, 145 compute). 0 of them were precached.
+[2025.09.17-21.23.14:498][ 65]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.14:498][ 65]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 1
+[2025.09.17-21.23.16:501][300]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.16:501][300]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 0
+[2025.09.17-21.23.18:504][537]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] Spawn
+[2025.09.17-21.23.18:504][537]LogBlueprintUserMessages: [BP_EnemySpawner_C_1] 1
+[2025.09.17-21.23.19:186][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-21.23.19:186][615]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2025.09.17-21.23.19:186][615]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.17-21.23.19:186][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-21.23.19:188][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.17-21.23.19:193][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.17-21.23.19:220][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.17-21.23.19:220][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.09.17-21.23.19:220][615]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2025.09.17-21.23.19:222][615]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2025.09.17-21.23.19:228][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.09.17-21.23.19:264][616]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.09.17-21.23.20:327][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.17-21.23.21:192][811]LogRenderer: Using fallback RTPSO
+[2025.09.17-21.23.21:227][812]LogRenderer: Using fallback RTPSO
+[2025.09.17-21.23.21:239][813]LogRenderer: Using fallback RTPSO
+[2025.09.17-21.23.21:249][814]LogRenderer: Using fallback RTPSO
+[2025.09.17-21.23.21:259][815]LogRenderer: Using fallback RTPSO
+[2025.09.17-21.23.21:270][816]LogRenderer: Using fallback RTPSO
+[2025.09.17-21.23.21:304][817]LogD3D12RHI: Creating RTPSO with 12 shaders (0 cached, 1 new) took 111.87 ms. Compile time 107.91 ms, link time 3.95 ms.
+[2025.09.17-21.23.21:306][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
